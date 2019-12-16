@@ -1,5 +1,5 @@
 <?php 
-
+die('WHAT THE FUCK?');
 /*	require 'conny.php';
 		$conn = new mysqli($servername, $username, $password);
 		if ($conn->connect_error) {
