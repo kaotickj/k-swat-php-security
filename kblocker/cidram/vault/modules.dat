@@ -1,0 +1,12 @@
+---
+module_cookies.php:
+ Name: Optional cookie scanner module
+ Extended Description: Provides some limited protections against dangerous cookies.
+ False Positive Risk: Low
+ Minimum Required: 1.0.0
+ Minimum Required PHP: 5.4.0
+ Remote: https://raw.githubusercontent.com/CIDRAM/CIDRAM-Extras/master/modules/modules.dat
+ Uninstallable: true
+ Used with: modules
+ Reannotate: modules.dat
+

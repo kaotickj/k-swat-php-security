@@ -1,0 +1,889 @@
+<?php die; ?>
+
+ID: 2
+Date/Time: Sat, 12 May 2018 04:05:35 +0000
+IP Address: 69.212.214.173
+Signatures Count: 1
+Signatures Reference: 69.212.214.173/32
+Why Blocked: from Useless piece of shit ("ipv4_custom.dat-IPv4", L186:F2)!
+User Agent: Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 3
+Date/Time: Sat, 12 May 2018 04:07:19 +0000
+IP Address: 69.212.214.173
+Signatures Count: 1
+Signatures Reference: 69.212.214.173/32
+Why Blocked: from Useless piece of shit ("ipv4_custom.dat-IPv4", L186:F2)!
+User Agent: Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 4
+Date/Time: Sat, 12 May 2018 04:16:46 +0000
+IP Address: 69.212.214.173
+Signatures Count: 1
+Signatures Reference: 69.212.214.173/32
+Why Blocked: from Useless piece of shit ("ipv4_custom.dat-IPv4", L186:F2)!
+User Agent: Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 5
+Date/Time: Sat, 12 May 2018 19:17:29 +0000
+IP Address: 137.226.113.21
+Signatures Count: 1
+Signatures Reference: 137.226.0.0/16
+Why Blocked: from ACHSES ("ipv4_custom.dat-IPv4", L185:F2)!
+User Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 6
+Date/Time: Mon, 14 May 2018 17:43:32 +0000
+IP Address: 134.255.228.239
+Referrer: http://kdgwebdesign.com
+Signatures Count: 1
+Signatures Reference: 134.255.224.0/20
+Why Blocked: Cloud service ("active-servers.com", L20271:F0, [DE])!
+User Agent: Go-http-client/2.0
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 7
+Date/Time: Sun, 20 May 2018 19:47:39 +0000
+IP Address: 137.226.113.23
+Signatures Count: 1
+Signatures Reference: 137.226.0.0/16
+Why Blocked: from ACHSES ("ipv4_custom.dat-IPv4", L185:F2)!
+User Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 8
+Date/Time: Wed, 23 May 2018 08:23:34 +0000
+IP Address: 138.186.137.238
+Query: category=joomla&page=your-first-article
+Referrer: https://kdgwebdesign.com/
+Signatures Count: 1
+Signatures Reference: 138.186.136.0/22
+Why Blocked: Cloud service ("TODAS LAS REDES SA", L20053:F0, [HN])!
+User Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+Reconstructed URI: https://kdgwebdesign.com/categories/joomla/pages/your-first-article
+
+ID: 9
+Date/Time: Sat, 26 May 2018 07:19:11 +0000
+IP Address: 137.226.113.22
+Signatures Count: 1
+Signatures Reference: 137.226.0.0/16
+Why Blocked: from ACHSES ("ipv4_custom.dat-IPv4", L185:F2)!
+User Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 10
+Date/Time: Thu, 31 May 2018 23:23:55 +0000
+IP Address: 104.227.245.54
+Query: category=joomla&page=your-first-article
+Referrer: https://kdgwebdesign.com/
+Signatures Count: 1
+Signatures Reference: 104.227.240.0/21
+Why Blocked: Cloud service ("B2 Net Solutions", L16152:F0, [CA])!
+User Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+Reconstructed URI: https://kdgwebdesign.com/categories/joomla/pages/your-first-article
+
+ID: 11
+Date/Time: Sat, 02 Jun 2018 11:06:12 +0000
+IP Address: 137.226.113.21
+Signatures Count: 1
+Signatures Reference: 137.226.0.0/16
+Why Blocked: from ACHSES ("ipv4_custom.dat-IPv4", L185:F2)!
+User Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 12
+Date/Time: Tue, 05 Jun 2018 06:27:48 +0000
+IP Address: 138.186.136.223
+Referrer: https://kdgwebdesign.com
+Signatures Count: 1
+Signatures Reference: 138.186.136.0/22
+Why Blocked: Cloud service ("TODAS LAS REDES SA", L20053:F0, [HN])!
+User Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 13
+Date/Time: Tue, 05 Jun 2018 22:10:30 +0000
+IP Address: 142.0.201.156
+Signatures Count: 1
+Signatures Reference: 142.0.192.0/20
+Why Blocked: Cloud service ("Servers.com", L20345:F0, [US])!
+User Agent: Quick-Crawler (+https://www.scrapinghub.com/)
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 14
+Date/Time: Sat, 09 Jun 2018 02:35:29 +0000
+IP Address: 137.226.113.34
+Signatures Count: 1
+Signatures Reference: 137.226.0.0/16
+Why Blocked: from ACHSES ("ipv4_custom.dat-IPv4", L185:F2)!
+User Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 15
+Date/Time: Sat, 09 Jun 2018 12:09:34 +0000
+IP Address: 167.99.106.25
+Signatures Count: 1
+Signatures Reference: 167.99.64.0/18
+Why Blocked: Cloud service ("Digital Ocean, Inc", L3999:F0, [US])!
+User Agent: Mozilla/5.0 (compatible; Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36)
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 16
+Date/Time: Thu, 14 Jun 2018 02:27:51 +0000
+IP Address: 51.38.14.172
+Referrer: https://kdgwebdesign.com/
+Signatures Count: 1
+Signatures Reference: 51.38.0.0/16
+Why Blocked: Cloud service ("OVH Systems", L1005:F0, [FR])!
+User Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36 OPR/49.0.2725.47
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 17
+Date/Time: Sat, 16 Jun 2018 02:46:41 +0000
+IP Address: 137.226.113.34
+Signatures Count: 1
+Signatures Reference: 137.226.0.0/16
+Why Blocked: from ACHSES ("ipv4_custom.dat-IPv4", L185:F2)!
+User Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 18
+Date/Time: Wed, 20 Jun 2018 17:17:10 +0000
+IP Address: 138.186.137.204
+Query: category=joomla&page=your-first-article
+Referrer: https://kdgwebdesign.com/
+Signatures Count: 1
+Signatures Reference: 138.186.136.0/22
+Why Blocked: Cloud service ("TODAS LAS REDES SA", L20053:F0, [HN])!
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36 OPR/49.0.2725.64
+Reconstructed URI: https://kdgwebdesign.com/categories/joomla/pages/your-first-article
+
+ID: 19
+Date/Time: Sat, 23 Jun 2018 05:15:06 +0000
+IP Address: 137.226.113.34
+Signatures Count: 1
+Signatures Reference: 137.226.0.0/16
+Why Blocked: from ACHSES ("ipv4_custom.dat-IPv4", L185:F2)!
+User Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 20
+Date/Time: Sat, 30 Jun 2018 05:28:18 +0000
+IP Address: 137.226.113.34
+Signatures Count: 1
+Signatures Reference: 137.226.0.0/16
+Why Blocked: from ACHSES ("ipv4_custom.dat-IPv4", L185:F2)!
+User Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 21
+Date/Time: Tue, 03 Jul 2018 09:20:48 +0000
+IP Address: 185.234.217.34
+Signatures Count: 1
+Signatures Reference: 185.234.216.0/22
+Why Blocked: Cloud service ("SPRINT", L16046:F0, [PL])!
+User Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 22
+Date/Time: Sat, 14 Jul 2018 09:22:22 +0000
+IP Address: 137.226.113.34
+Signatures Count: 1
+Signatures Reference: 137.226.0.0/16
+Why Blocked: from ACHSES ("ipv4_custom.dat-IPv4", L185:F2)!
+User Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 23
+Date/Time: Sat, 21 Jul 2018 09:32:51 +0000
+IP Address: 137.226.113.34
+Signatures Count: 1
+Signatures Reference: 137.226.0.0/16
+Why Blocked: from ACHSES ("ipv4_custom.dat-IPv4", L185:F2)!
+User Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 24
+Date/Time: Sat, 28 Jul 2018 15:58:17 +0000
+IP Address: 137.226.113.34
+Signatures Count: 1
+Signatures Reference: 137.226.0.0/16
+Why Blocked: from ACHSES ("ipv4_custom.dat-IPv4", L185:F2)!
+User Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 25
+Date/Time: Mon, 30 Jul 2018 00:33:44 +0000
+IP Address: 181.177.114.31
+Query: category=joomla&page=your-first-article
+Referrer: https://kdgwebdesign.com/
+Signatures Count: 2
+Signatures Reference: 181.177.64.0/18, 181.177.64.0/18
+Why Blocked: Cloud service ("SOCIEDAD BUENA", L19843:F0, [BZ]), Spam risk ("Spamhaus DROP/EDROP", L760:F4)!
+User Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3343.4 Safari/537.36
+Reconstructed URI: https://kdgwebdesign.com/categories/joomla/pages/your-first-article
+
+ID: 26
+Date/Time: Wed, 01 Aug 2018 20:35:22 +0000
+IP Address: 185.234.217.109
+Signatures Count: 1
+Signatures Reference: 185.234.216.0/22
+Why Blocked: Cloud service ("SPRINT", L16046:F0, [PL])!
+User Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 27
+Date/Time: Mon, 06 Aug 2018 19:01:13 +0000
+IP Address: 181.177.112.94
+Referrer: https://kdgwebdesign.com
+Signatures Count: 2
+Signatures Reference: 181.177.64.0/18, 181.177.64.0/18
+Why Blocked: Cloud service ("SOCIEDAD BUENA", L19843:F0, [BZ]), Spam risk ("Spamhaus DROP/EDROP", L760:F4)!
+User Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.170 Safari/537.36 OPR/53.0.2907.99
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 28
+Date/Time: Fri, 10 Aug 2018 02:49:06 +0000
+IP Address: 159.65.227.178
+Signatures Count: 1
+Signatures Reference: 159.65.224.0/19
+Why Blocked: Cloud service ("Digital Ocean, Inc", L3984:F0, [US])!
+User Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1623.0 Safari/537.36
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 29
+Date/Time: Fri, 10 Aug 2018 02:49:06 +0000
+IP Address: 159.65.227.178
+Signatures Count: 1
+Signatures Reference: 159.65.224.0/19
+Why Blocked: Cloud service ("Digital Ocean, Inc", L3984:F0, [US])!
+User Agent: Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1667.0 Safari/537.36
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 30
+Date/Time: Fri, 10 Aug 2018 02:49:06 +0000
+IP Address: 159.65.227.178
+Signatures Count: 1
+Signatures Reference: 159.65.224.0/19
+Why Blocked: Cloud service ("Digital Ocean, Inc", L3984:F0, [US])!
+User Agent: Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1467.0 Safari/537.36
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 30
+Date/Time: Fri, 10 Aug 2018 02:49:06 +0000
+IP Address: 159.65.227.178
+Signatures Count: 1
+Signatures Reference: 159.65.224.0/19
+Why Blocked: Cloud service ("Digital Ocean, Inc", L3984:F0, [US])!
+User Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1623.0 Safari/537.36
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 31
+Date/Time: Sun, 12 Aug 2018 16:23:24 +0000
+IP Address: 181.177.113.164
+Query: category=software&page=bot-swat-form-spam-prevention-system
+Referrer: https://kdgwebdesign.com/
+Signatures Count: 2
+Signatures Reference: 181.177.64.0/18, 181.177.64.0/18
+Why Blocked: Cloud service ("SOCIEDAD BUENA", L19843:F0, [BZ]), Spam risk ("Spamhaus DROP/EDROP", L760:F4)!
+User Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.64
+Reconstructed URI: https://kdgwebdesign.com/categories/services/pages/email-and-form-spam-prevention
+
+ID: 32
+Date/Time: Tue, 13 Aug 2019 19:50:41 +0000
+IP Address: 185.234.217.41
+Signatures Count: 1
+Signatures Reference: 185.234.216.0/22
+Why Blocked: Cloud service ("SPRINT", L16046:F0, [PL])!
+User Agent: Mozilla/5.0 (iPad; CPU OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 33
+Date/Time: Wed, 14 Aug 2019 06:09:15 +0000
+IP Address: 51.68.152.26
+Signatures Count: 1
+Signatures Reference: 51.68.0.0/16
+Why Blocked: Cloud service ("OVH Systems", L1006:F0, [FR])!
+User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36 OPR/54.0.2952.60
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 34
+Date/Time: Wed, 14 Aug 2019 11:27:12 +0000
+IP Address: 51.159.30.33
+Signatures Count: 1
+Signatures Reference: 51.158.0.0/15
+Why Blocked: Cloud service ("ONLINE S.A.S", L7028:F0, [FR])!
+User Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 35
+Date/Time: Wed, 14 Aug 2019 16:20:19 +0000
+IP Address: 51.159.30.34
+Signatures Count: 1
+Signatures Reference: 51.158.0.0/15
+Why Blocked: Cloud service ("ONLINE S.A.S", L7028:F0, [FR])!
+User Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 36
+Date/Time: Wed, 14 Aug 2019 19:53:17 +0000
+IP Address: 51.159.30.29
+Signatures Count: 1
+Signatures Reference: 51.158.0.0/15
+Why Blocked: Cloud service ("ONLINE S.A.S", L7028:F0, [FR])!
+User Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 37
+Date/Time: Thu, 15 Aug 2019 01:09:37 +0000
+IP Address: 51.159.30.29
+Signatures Count: 1
+Signatures Reference: 51.158.0.0/15
+Why Blocked: Cloud service ("ONLINE S.A.S", L7028:F0, [FR])!
+User Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 38
+Date/Time: Thu, 15 Aug 2019 05:25:29 +0000
+IP Address: 51.159.30.30
+Signatures Count: 1
+Signatures Reference: 51.158.0.0/15
+Why Blocked: Cloud service ("ONLINE S.A.S", L7028:F0, [FR])!
+User Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 39
+Date/Time: Thu, 15 Aug 2019 11:24:06 +0000
+IP Address: 51.159.30.31
+Signatures Count: 1
+Signatures Reference: 51.158.0.0/15
+Why Blocked: Cloud service ("ONLINE S.A.S", L7028:F0, [FR])!
+User Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 40
+Date/Time: Thu, 15 Aug 2019 14:01:46 +0000
+IP Address: 51.159.30.33
+Signatures Count: 1
+Signatures Reference: 51.158.0.0/15
+Why Blocked: Cloud service ("ONLINE S.A.S", L7028:F0, [FR])!
+User Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 41
+Date/Time: Thu, 15 Aug 2019 23:22:32 +0000
+IP Address: 51.159.30.34
+Signatures Count: 1
+Signatures Reference: 51.158.0.0/15
+Why Blocked: Cloud service ("ONLINE S.A.S", L7028:F0, [FR])!
+User Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 42
+Date/Time: Fri, 16 Aug 2019 04:23:56 +0000
+IP Address: 51.159.30.29
+Signatures Count: 1
+Signatures Reference: 51.158.0.0/15
+Why Blocked: Cloud service ("ONLINE S.A.S", L7028:F0, [FR])!
+User Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 43
+Date/Time: Sat, 17 Aug 2019 18:17:47 +0000
+IP Address: 51.68.152.26
+Signatures Count: 1
+Signatures Reference: 51.68.0.0/16
+Why Blocked: Cloud service ("OVH Systems", L1006:F0, [FR])!
+User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36 OPR/54.0.2952.60
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 44
+Date/Time: Mon, 19 Aug 2019 22:39:34 +0000
+IP Address: 137.226.113.34
+Signatures Count: 1
+Signatures Reference: 137.226.0.0/16
+Why Blocked: from ACHSES ("ipv4_custom.dat-IPv4", L185:F2)!
+User Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 45
+Date/Time: Wed, 21 Aug 2019 06:23:31 +0000
+IP Address: 51.68.152.26
+Signatures Count: 1
+Signatures Reference: 51.68.0.0/16
+Why Blocked: Cloud service ("OVH Systems", L1006:F0, [FR])!
+User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 OPR/62.0.3331.99
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 46
+Date/Time: Wed, 21 Aug 2019 09:33:56 +0000
+IP Address: 51.159.30.29
+Signatures Count: 1
+Signatures Reference: 51.158.0.0/15
+Why Blocked: Cloud service ("ONLINE S.A.S", L7028:F0, [FR])!
+User Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 47
+Date/Time: Fri, 23 Aug 2019 20:36:11 +0000
+IP Address: 51.159.30.33
+Signatures Count: 1
+Signatures Reference: 51.158.0.0/15
+Why Blocked: Cloud service ("ONLINE S.A.S", L7028:F0, [FR])!
+User Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 48
+Date/Time: Sat, 24 Aug 2019 18:02:32 +0000
+IP Address: 51.68.152.26
+Signatures Count: 1
+Signatures Reference: 51.68.0.0/16
+Why Blocked: Cloud service ("OVH Systems", L1006:F0, [FR])!
+User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 OPR/62.0.3331.99
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 49
+Date/Time: Sun, 25 Aug 2019 11:53:24 +0000
+IP Address: 185.234.217.41
+Signatures Count: 1
+Signatures Reference: 185.234.216.0/22
+Why Blocked: Cloud service ("SPRINT", L16046:F0, [PL])!
+User Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 50
+Date/Time: Mon, 26 Aug 2019 23:55:12 +0000
+IP Address: 51.159.30.33
+Signatures Count: 1
+Signatures Reference: 51.158.0.0/15
+Why Blocked: Cloud service ("ONLINE S.A.S", L7028:F0, [FR])!
+User Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 51
+Date/Time: Wed, 28 Aug 2019 05:42:08 +0000
+IP Address: 51.68.152.26
+Signatures Count: 1
+Signatures Reference: 51.68.0.0/16
+Why Blocked: Cloud service ("OVH Systems", L1006:F0, [FR])!
+User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 OPR/62.0.3331.99
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 52
+Date/Time: Fri, 30 Aug 2019 10:22:11 +0000
+IP Address: 51.159.30.30
+Signatures Count: 1
+Signatures Reference: 51.158.0.0/15
+Why Blocked: Cloud service ("ONLINE S.A.S", L7028:F0, [FR])!
+User Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 53
+Date/Time: Fri, 30 Aug 2019 21:14:44 +0000
+IP Address: 137.226.113.34
+Signatures Count: 1
+Signatures Reference: 137.226.0.0/16
+Why Blocked: from ACHSES ("ipv4_custom.dat-IPv4", L185:F2)!
+User Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 54
+Date/Time: Sat, 31 Aug 2019 17:27:47 +0000
+IP Address: 51.68.152.26
+Signatures Count: 1
+Signatures Reference: 51.68.0.0/16
+Why Blocked: Cloud service ("OVH Systems", L1006:F0, [FR])!
+User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 OPR/62.0.3331.99
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 55
+Date/Time: Tue, 03 Sep 2019 06:10:26 +0000
+IP Address: 51.159.30.31
+Signatures Count: 1
+Signatures Reference: 51.158.0.0/15
+Why Blocked: Cloud service ("ONLINE S.A.S", L7028:F0, [FR])!
+User Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 56
+Date/Time: Wed, 04 Sep 2019 05:12:39 +0000
+IP Address: 51.68.152.26
+Signatures Count: 1
+Signatures Reference: 51.68.0.0/16
+Why Blocked: Cloud service ("OVH Systems", L1006:F0, [FR])!
+User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 OPR/62.0.3331.99
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 57
+Date/Time: Thu, 05 Sep 2019 04:22:06 +0000
+IP Address: 51.159.30.33
+Signatures Count: 1
+Signatures Reference: 51.158.0.0/15
+Why Blocked: Cloud service ("ONLINE S.A.S", L7028:F0, [FR])!
+User Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 58
+Date/Time: Tue, 10 Sep 2019 09:49:09 +0000
+IP Address: 137.226.113.34
+Signatures Count: 1
+Signatures Reference: 137.226.0.0/16
+Why Blocked: from ACHSES ("ipv4_custom.dat-IPv4", L185:F2)!
+User Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 59
+Date/Time: Sat, 14 Sep 2019 10:44:46 +0000
+IP Address: 181.177.115.226
+Signatures Count: 2
+Signatures Reference: 181.177.64.0/18, 181.177.64.0/18
+Why Blocked: Cloud service ("SOCIEDAD BUENA", L19843:F0, [BZ]), Spam risk ("Spamhaus DROP/EDROP", L760:F4)!
+User Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/B85648
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 60
+Date/Time: Tue, 17 Sep 2019 19:59:10 +0000
+IP Address: 181.177.112.225
+Signatures Count: 2
+Signatures Reference: 181.177.64.0/18, 181.177.64.0/18
+Why Blocked: Cloud service ("SOCIEDAD BUENA", L19843:F0, [BZ]), Spam risk ("Spamhaus DROP/EDROP", L760:F4)!
+User Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.64
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 61
+Date/Time: Wed, 18 Sep 2019 09:51:14 +0000
+IP Address: 137.226.113.34
+Signatures Count: 1
+Signatures Reference: 137.226.0.0/16
+Why Blocked: from ACHSES ("ipv4_custom.dat-IPv4", L185:F2)!
+User Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 62
+Date/Time: Thu, 19 Sep 2019 15:21:02 +0000
+IP Address: 104.227.246.106
+Signatures Count: 1
+Signatures Reference: 104.227.240.0/21
+Why Blocked: Cloud service ("B2 Net Solutions", L16152:F0, [CA])!
+User Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 63
+Date/Time: Thu, 19 Sep 2019 15:21:03 +0000
+IP Address: 104.227.246.106
+Signatures Count: 1
+Signatures Reference: 104.227.240.0/21
+Why Blocked: Cloud service ("B2 Net Solutions", L16152:F0, [CA])!
+User Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 64
+Date/Time: Fri, 20 Sep 2019 10:37:44 +0000
+IP Address: 144.202.52.245
+Signatures Count: 1
+Signatures Reference: 144.202.0.0/17
+Why Blocked: Cloud service ("Choopa, LLC", L6247:F0, [US])!
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 65
+Date/Time: Fri, 27 Sep 2019 12:39:37 +0000
+IP Address: 159.65.242.29
+Signatures Count: 1
+Signatures Reference: 159.65.224.0/19
+Why Blocked: Cloud service ("Digital Ocean, Inc", L3984:F0, [US])!
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+Reconstructed URI: http://kdgwebdesign.com/
+
+ID: 66
+Date/Time: Fri, 27 Sep 2019 15:16:51 +0000
+IP Address: 51.68.152.26
+Signatures Count: 1
+Signatures Reference: 51.68.0.0/16
+Why Blocked: Cloud service ("OVH Systems", L1006:F0, [FR])!
+User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 OPR/62.0.3331.99
+Reconstructed URI: http://kdgwebdesign.com/
+
+ID: 67
+Date/Time: Tue, 01 Oct 2019 02:04:58 +0000
+IP Address: 51.159.0.165
+Signatures Count: 1
+Signatures Reference: 51.158.0.0/15
+Why Blocked: Cloud service ("ONLINE S.A.S", L7028:F0, [FR])!
+User Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Reconstructed URI: http://kdgwebdesign.com/
+
+ID: 68
+Date/Time: Tue, 01 Oct 2019 03:10:19 +0000
+IP Address: 51.68.152.26
+Signatures Count: 1
+Signatures Reference: 51.68.0.0/16
+Why Blocked: Cloud service ("OVH Systems", L1006:F0, [FR])!
+User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 OPR/62.0.3331.99
+Reconstructed URI: http://kdgwebdesign.com/
+
+ID: 69
+Date/Time: Tue, 01 Oct 2019 21:04:52 +0000
+IP Address: 185.232.21.142
+Query: category=contact&page=quote-request
+Referrer: http://kdgwebdesign.com/categories/contact/pages/quote-request
+Signatures Count: 1
+Signatures Reference: 185.232.20.0/22
+Why Blocked: Generic ("M247 Ltd", L8359:F3, [RO])!
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+Reconstructed URI: http://kdgwebdesign.com/categories/contact/pages/quote-request
+
+ID: 70
+Date/Time: Thu, 03 Oct 2019 18:32:37 +0000
+IP Address: 51.159.30.31
+Signatures Count: 1
+Signatures Reference: 51.158.0.0/15
+Why Blocked: Cloud service ("ONLINE S.A.S", L7028:F0, [FR])!
+User Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Reconstructed URI: http://kdgwebdesign.com/
+
+ID: 71
+Date/Time: Thu, 03 Oct 2019 23:19:56 +0000
+IP Address: 51.159.30.29
+Signatures Count: 1
+Signatures Reference: 51.158.0.0/15
+Why Blocked: Cloud service ("ONLINE S.A.S", L7028:F0, [FR])!
+User Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Reconstructed URI: http://kdgwebdesign.com/
+
+ID: 72
+Date/Time: Fri, 04 Oct 2019 14:49:32 +0000
+IP Address: 51.68.152.26
+Signatures Count: 1
+Signatures Reference: 51.68.0.0/16
+Why Blocked: Cloud service ("OVH Systems", L1006:F0, [FR])!
+User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 OPR/62.0.3331.99
+Reconstructed URI: http://kdgwebdesign.com/
+
+ID: 73
+Date/Time: Fri, 04 Oct 2019 16:06:03 +0000
+IP Address: 51.159.0.165
+Signatures Count: 1
+Signatures Reference: 51.158.0.0/15
+Why Blocked: Cloud service ("ONLINE S.A.S", L7028:F0, [FR])!
+User Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Reconstructed URI: http://kdgwebdesign.com/
+
+ID: 74
+Date/Time: Sat, 05 Oct 2019 03:31:07 +0000
+IP Address: 51.159.30.33
+Signatures Count: 1
+Signatures Reference: 51.158.0.0/15
+Why Blocked: Cloud service ("ONLINE S.A.S", L7028:F0, [FR])!
+User Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Reconstructed URI: http://kdgwebdesign.com/
+
+ID: 75
+Date/Time: Mon, 07 Oct 2019 15:06:14 +0000
+IP Address: 51.159.30.29
+Signatures Count: 1
+Signatures Reference: 51.158.0.0/15
+Why Blocked: Cloud service ("ONLINE S.A.S", L7028:F0, [FR])!
+User Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Reconstructed URI: http://kdgwebdesign.com/
+
+ID: 76
+Date/Time: Sun, 13 Oct 2019 00:21:17 +0000
+IP Address: 168.90.198.136
+Signatures Count: 1
+Signatures Reference: 168.90.196.0/22
+Why Blocked: Cloud service ("TODAS LAS REDES SA", L20054:F0, [HN])!
+User Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/4B4932
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 77
+Date/Time: Sun, 13 Oct 2019 20:22:37 +0000
+IP Address: 168.90.198.84
+Signatures Count: 1
+Signatures Reference: 168.90.196.0/22
+Why Blocked: Cloud service ("TODAS LAS REDES SA", L20054:F0, [HN])!
+User Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.64
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 78
+Date/Time: Tue, 22 Oct 2019 00:51:00 +0000
+IP Address: 51.159.30.33
+Signatures Count: 1
+Signatures Reference: 51.158.0.0/15
+Why Blocked: Cloud service ("ONLINE S.A.S", L7028:F0, [FR])!
+User Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Reconstructed URI: http://kdgwebdesign.com/
+
+ID: 79
+Date/Time: Mon, 28 Oct 2019 17:08:57 +0000
+IP Address: 81.156.204.84
+Hostname: host81-156-204-84.range81-156.btcentralplus.com
+Referrer: https://kdgwebdesign.com/
+Signatures Count: 1
+Signatures Reference: functions.php:L1464
+Why Blocked: Fake Baidu!
+User Agent: Mozilla/5.0 (Linux; U; Android 8.1.0; zh-CN; EML-AL00 Build/HUAWEIEML-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.108 baidu.sogo.uc.UCBrowser/11.9.4.974 UWS/2.13.1.48 Mobile Safari/537.36 AliApp(DingTalk/4.5.11) com.alibaba.android.rimet/10487439 Channel/227200 language/zh-CN
+Reconstructed URI: https://kdgwebdesign.com/
+
+ID: 80
+Date/Time: Mon, 28 Oct 2019 17:08:57 +0000
+IP Address: 81.156.204.84
+Hostname: host81-156-204-84.range81-156.btcentralplus.com
+Referrer: http://kdgwebdesign.com/
+Signatures Count: 1
+Signatures Reference: functions.php:L1464
+Why Blocked: Fake Baidu!
+User Agent: Mozilla/5.0 (Linux; U; Android 8.1.0; zh-CN; EML-AL00 Build/HUAWEIEML-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.108 baidu.sogo.uc.UCBrowser/11.9.4.974 UWS/2.13.1.48 Mobile Safari/537.36 AliApp(DingTalk/4.5.11) com.alibaba.android.rimet/10487439 Channel/227200 language/zh-CN
+Reconstructed URI: http://kdgwebdesign.com/
+
+ID: 81
+Date/Time: Mon, 28 Oct 2019 17:14:44 +0000
+IP Address: 92.23.58.11
+Hostname: host-92-23-58-11.as13285.net
+Query: category=software&page=software
+Referrer: http://kdgwebdesign.com/categories/software/pages/software
+Signatures Count: 1
+Signatures Reference: functions.php:L1450
+Why Blocked: Fake Bingbot!
+User Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53 BingPreview/1.0b
+Reconstructed URI: http://kdgwebdesign.com/categories/software/pages/software
+
+ID: 82
+Date/Time: Mon, 11 Nov 2019 23:47:08 +0000
+IP Address: 207.38.82.70
+Signatures Count: 1
+Signatures Reference: 207.38.80.0/20
+Why Blocked: Cloud service ("HEG US Inc", L7012:F0, [US])!
+User Agent: PLESK (SEO Toolkit: site audit quick check)
+Reconstructed URI: http://kdgwebdesign.com/
+
+ID: 83
+Date/Time: Mon, 11 Nov 2019 23:47:31 +0000
+IP Address: 207.38.82.70
+Signatures Count: 1
+Signatures Reference: 207.38.80.0/20
+Why Blocked: Cloud service ("HEG US Inc", L7012:F0, [US])!
+User Agent: PLESK (SEO Toolkit: site audit quick check)
+Reconstructed URI: http://kdgwebdesign.com/
+
+ID: 84
+Date/Time: Mon, 11 Nov 2019 23:47:35 +0000
+IP Address: 78.138.117.190
+Signatures Count: 1
+Signatures Reference: 78.138.64.0/18
+Why Blocked: Cloud service ("Host Europe GmbH", L6562:F0, [DE])!
+User Agent: Mozilla/5.0 (compatible; XoviOnpageCrawler; +http://www.xovi.de/)
+Reconstructed URI: http://kdgwebdesign.com/
+
+ID: 85
+Date/Time: Mon, 11 Nov 2019 23:48:50 +0000
+IP Address: 207.38.82.70
+Signatures Count: 1
+Signatures Reference: 207.38.80.0/20
+Why Blocked: Cloud service ("HEG US Inc", L7012:F0, [US])!
+User Agent: PLESK (SEO Toolkit: site audit quick check)
+Reconstructed URI: http://kdgwebdesign.com/
+
+ID: 86
+Date/Time: Mon, 11 Nov 2019 23:49:30 +0000
+IP Address: 78.138.117.190
+Signatures Count: 1
+Signatures Reference: 78.138.64.0/18
+Why Blocked: Cloud service ("Host Europe GmbH", L6562:F0, [DE])!
+User Agent: Mozilla/5.0 (compatible; XoviOnpageCrawler; +http://www.xovi.de/)
+Reconstructed URI: http://kdgwebdesign.com/
+
+ID: 87
+Date/Time: Mon, 11 Nov 2019 23:49:57 +0000
+IP Address: 207.38.82.70
+Signatures Count: 1
+Signatures Reference: 207.38.80.0/20
+Why Blocked: Cloud service ("HEG US Inc", L7012:F0, [US])!
+User Agent: PLESK (SEO Toolkit: site audit quick check)
+Reconstructed URI: http://kdgwebdesign.com/
+
+ID: 88
+Date/Time: Mon, 11 Nov 2019 23:50:24 +0000
+IP Address: 78.138.117.190
+Signatures Count: 1
+Signatures Reference: 78.138.64.0/18
+Why Blocked: Cloud service ("Host Europe GmbH", L6562:F0, [DE])!
+User Agent: Mozilla/5.0 (compatible; XoviOnpageCrawler; +http://www.xovi.de/)
+Reconstructed URI: http://kdgwebdesign.com/
+
+ID: 89
+Date/Time: Tue, 12 Nov 2019 23:45:39 +0000
+IP Address: 51.159.30.29
+Signatures Count: 1
+Signatures Reference: 51.158.0.0/15
+Why Blocked: Cloud service ("ONLINE S.A.S", L7028:F0, [FR])!
+User Agent: Mozilla/5.0 (X11; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0
+Reconstructed URI: http://kdgwebdesign.com/
+
+ID: 90
+Date/Time: Tue, 12 Nov 2019 23:55:54 +0000
+IP Address: 51.159.30.30
+Signatures Count: 1
+Signatures Reference: 51.158.0.0/15
+Why Blocked: Cloud service ("ONLINE S.A.S", L7028:F0, [FR])!
+User Agent: Mozilla/5.0 (X11; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0
+Reconstructed URI: http://kdgwebdesign.com/
+
+ID: 91
+Date/Time: Wed, 13 Nov 2019 23:54:36 +0000
+IP Address: 51.68.152.26
+Signatures Count: 1
+Signatures Reference: 51.68.0.0/16
+Why Blocked: Cloud service ("OVH Systems", L1006:F0, [FR])!
+User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 OPR/62.0.3331.99
+Reconstructed URI: http://kdgwebdesign.com/
+
+ID: 92
+Date/Time: Sat, 16 Nov 2019 17:52:00 +0000
+IP Address: 51.159.30.29
+Signatures Count: 1
+Signatures Reference: 51.158.0.0/15
+Why Blocked: Cloud service ("ONLINE S.A.S", L7028:F0, [FR])!
+User Agent: Mozilla/5.0 (X11; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0
+Reconstructed URI: http://kdgwebdesign.com/
+
+ID: 93
+Date/Time: Sun, 17 Nov 2019 11:45:06 +0000
+IP Address: 51.68.152.26
+Signatures Count: 1
+Signatures Reference: 51.68.0.0/16
+Why Blocked: Cloud service ("OVH Systems", L1006:F0, [FR])!
+User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 OPR/62.0.3331.99
+Reconstructed URI: http://kdgwebdesign.com/
+
+ID: 94
+Date/Time: Mon, 18 Nov 2019 02:31:31 +0000
+IP Address: 198.13.56.96
+Signatures Count: 1
+Signatures Reference: 198.13.32.0/19
+Why Blocked: Cloud service ("Choopa, LLC", L6296:F0, [US])!
+User Agent: Go-http-client/1.1
+Reconstructed URI: http://kdgwebdesign.com/index.php
+
+ID: 95
+Date/Time: Wed, 20 Nov 2019 11:01:13 +0000
+IP Address: 51.159.30.29
+Signatures Count: 1
+Signatures Reference: 51.158.0.0/15
+Why Blocked: Cloud service ("ONLINE S.A.S", L7028:F0, [FR])!
+User Agent: Mozilla/5.0 (X11; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0
+Reconstructed URI: http://kdgwebdesign.com/
+
+ID: 96
+Date/Time: Wed, 20 Nov 2019 23:23:39 +0000
+IP Address: 51.68.152.26
+Signatures Count: 1
+Signatures Reference: 51.68.0.0/16
+Why Blocked: Cloud service ("OVH Systems", L1006:F0, [FR])!
+User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 OPR/62.0.3331.99
+Reconstructed URI: http://kdgwebdesign.com/
+

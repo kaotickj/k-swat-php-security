@@ -1,0 +1,191 @@
+/**
+ * Republic of Moldova netblocks.
+ *
+ * This file is an optional blocklist for the CIDRAM package.
+ * It will block access from Republic of Moldova
+ *
+ * This file includes GeoLite data created by MaxMind, available from https://dev.maxmind.com/geoip/geoip2/geolite2/
+ * The GeoLite databases are distributed under the Creative Commons Attribution-ShareAlike 4.0 International License
+ * http://creativecommons.org/licenses/by-sa/4.0/
+ *
+ * Aggregated and adapted to work with CIDRAM by David MacMathan (macmathan).
+ * https://bitbucket.org/macmathan
+ *
+ * Last updated 2019.12.10 1607
+ *
+ * Version: MD-2019.343.671
+ */
+2001:678:6d4::/48 Deny No access allowed from Republic of Moldova
+2001:7f8:2e::/48 Deny No access allowed from Republic of Moldova
+2001:7f8:6a::/48 Deny No access allowed from Republic of Moldova
+2400:cb00:166::/48 Deny No access allowed from Republic of Moldova
+2403:280::/48 Deny No access allowed from Republic of Moldova
+2a00:10e0::/32 Deny No access allowed from Republic of Moldova
+2a00:1858::/32 Deny No access allowed from Republic of Moldova
+2a00:1dc0::/111 Deny No access allowed from Republic of Moldova
+2a00:1dc0::3:0/112 Deny No access allowed from Republic of Moldova
+2a00:1dc0::4:0/110 Deny No access allowed from Republic of Moldova
+2a00:1dc0::8:0/109 Deny No access allowed from Republic of Moldova
+2a00:1dc0::10:0/108 Deny No access allowed from Republic of Moldova
+2a00:1dc0::20:0/107 Deny No access allowed from Republic of Moldova
+2a00:1dc0::40:0/106 Deny No access allowed from Republic of Moldova
+2a00:1dc0::80:0/105 Deny No access allowed from Republic of Moldova
+2a00:1dc0::100:0/104 Deny No access allowed from Republic of Moldova
+2a00:1dc0::200:0/103 Deny No access allowed from Republic of Moldova
+2a00:1dc0::400:0/102 Deny No access allowed from Republic of Moldova
+2a00:1dc0::800:0/101 Deny No access allowed from Republic of Moldova
+2a00:1dc0::1000:0/100 Deny No access allowed from Republic of Moldova
+2a00:1dc0::2000:0/99 Deny No access allowed from Republic of Moldova
+2a00:1dc0::4000:0/98 Deny No access allowed from Republic of Moldova
+2a00:1dc0::8000:0/97 Deny No access allowed from Republic of Moldova
+2a00:1dc0:0:0:1::/80 Deny No access allowed from Republic of Moldova
+2a00:1dc0:0:0:2::/79 Deny No access allowed from Republic of Moldova
+2a00:1dc0:0:0:4::/78 Deny No access allowed from Republic of Moldova
+2a00:1dc0:0:0:8::/77 Deny No access allowed from Republic of Moldova
+2a00:1dc0:0:0:10::/76 Deny No access allowed from Republic of Moldova
+2a00:1dc0:0:0:20::/75 Deny No access allowed from Republic of Moldova
+2a00:1dc0:0:0:40::/74 Deny No access allowed from Republic of Moldova
+2a00:1dc0:0:0:80::/73 Deny No access allowed from Republic of Moldova
+2a00:1dc0:0:0:100::/72 Deny No access allowed from Republic of Moldova
+2a00:1dc0:0:0:200::/71 Deny No access allowed from Republic of Moldova
+2a00:1dc0:0:0:400::/70 Deny No access allowed from Republic of Moldova
+2a00:1dc0:0:0:800::/69 Deny No access allowed from Republic of Moldova
+2a00:1dc0:0:0:1000::/68 Deny No access allowed from Republic of Moldova
+2a00:1dc0:0:0:2000::/67 Deny No access allowed from Republic of Moldova
+2a00:1dc0:0:0:4000::/66 Deny No access allowed from Republic of Moldova
+2a00:1dc0:0:0:8000::/65 Deny No access allowed from Republic of Moldova
+2a00:1dc0:0:1::/64 Deny No access allowed from Republic of Moldova
+2a00:1dc0:0:2::/63 Deny No access allowed from Republic of Moldova
+2a00:1dc0:0:4::/62 Deny No access allowed from Republic of Moldova
+2a00:1dc0:0:8::/61 Deny No access allowed from Republic of Moldova
+2a00:1dc0:0:10::/60 Deny No access allowed from Republic of Moldova
+2a00:1dc0:0:20::/59 Deny No access allowed from Republic of Moldova
+2a00:1dc0:0:40::/58 Deny No access allowed from Republic of Moldova
+2a00:1dc0:0:80::/57 Deny No access allowed from Republic of Moldova
+2a00:1dc0:0:100::/56 Deny No access allowed from Republic of Moldova
+2a00:1dc0:0:200::/55 Deny No access allowed from Republic of Moldova
+2a00:1dc0:0:400::/54 Deny No access allowed from Republic of Moldova
+2a00:1dc0:0:800::/53 Deny No access allowed from Republic of Moldova
+2a00:1dc0:0:1000::/52 Deny No access allowed from Republic of Moldova
+2a00:1dc0:0:2000::/51 Deny No access allowed from Republic of Moldova
+2a00:1dc0:0:4000::/50 Deny No access allowed from Republic of Moldova
+2a00:1dc0:0:8000::/49 Deny No access allowed from Republic of Moldova
+2a00:1dc0:1::/48 Deny No access allowed from Republic of Moldova
+2a00:1dc0:2::/47 Deny No access allowed from Republic of Moldova
+2a00:1dc0:4::/46 Deny No access allowed from Republic of Moldova
+2a00:1dc0:8::/45 Deny No access allowed from Republic of Moldova
+2a00:1dc0:10::/44 Deny No access allowed from Republic of Moldova
+2a00:1dc0:20::/43 Deny No access allowed from Republic of Moldova
+2a00:1dc0:40::/42 Deny No access allowed from Republic of Moldova
+2a00:1dc0:80::/41 Deny No access allowed from Republic of Moldova
+2a00:1dc0:100::/40 Deny No access allowed from Republic of Moldova
+2a00:1dc0:200::/39 Deny No access allowed from Republic of Moldova
+2a00:1dc0:400::/38 Deny No access allowed from Republic of Moldova
+2a00:1dc0:800::/37 Deny No access allowed from Republic of Moldova
+2a00:1dc0:1000::/36 Deny No access allowed from Republic of Moldova
+2a00:1dc0:2000::/35 Deny No access allowed from Republic of Moldova
+2a00:1dc0:4000::/34 Deny No access allowed from Republic of Moldova
+2a00:1dc0:8000::/33 Deny No access allowed from Republic of Moldova
+2a00:1dc1::/32 Deny No access allowed from Republic of Moldova
+2a00:1dc2::/31 Deny No access allowed from Republic of Moldova
+2a00:1dc4::/30 Deny No access allowed from Republic of Moldova
+2a00:9900::/29 Deny No access allowed from Republic of Moldova
+2a00:c5a0::/29 Deny No access allowed from Republic of Moldova
+2a00:cce0::/32 Deny No access allowed from Republic of Moldova
+2a00:f900::/29 Deny No access allowed from Republic of Moldova
+2a01:320::/29 Deny No access allowed from Republic of Moldova
+2a01:6dc0::/32 Deny No access allowed from Republic of Moldova
+2a01:a320::/32 Deny No access allowed from Republic of Moldova
+2a01:c8c0::/28 Deny No access allowed from Republic of Moldova
+2a02:a30::/32 Deny No access allowed from Republic of Moldova
+2a02:fd0::/32 Deny No access allowed from Republic of Moldova
+2a02:1618::/32 Deny No access allowed from Republic of Moldova
+2a03:a80::/32 Deny No access allowed from Republic of Moldova
+2a03:6947:1300::/40 Deny No access allowed from Republic of Moldova
+2a03:f680::/32 Deny No access allowed from Republic of Moldova
+2a04:5ec7::/48 Deny No access allowed from Republic of Moldova
+2a04:7580::/29 Deny No access allowed from Republic of Moldova
+2a05:7140::/32 Deny No access allowed from Republic of Moldova
+2a05:bf82::/31 Deny No access allowed from Republic of Moldova
+2a05:bf84::/30 Deny No access allowed from Republic of Moldova
+2a06:4980::/32 Deny No access allowed from Republic of Moldova
+2a07:4140::/29 Deny No access allowed from Republic of Moldova
+2a07:5540::/29 Deny No access allowed from Republic of Moldova
+2a07:c040::/29 Deny No access allowed from Republic of Moldova
+2a09:700::/29 Deny No access allowed from Republic of Moldova
+2a09:1d00::/29 Deny No access allowed from Republic of Moldova
+2a09:25c0::/29 Deny No access allowed from Republic of Moldova
+2a09:7c40::/29 Deny No access allowed from Republic of Moldova
+2a09:7f00::/29 Deny No access allowed from Republic of Moldova
+2a09:7f80::/32 Deny No access allowed from Republic of Moldova
+2a09:a480::/29 Deny No access allowed from Republic of Moldova
+2a09:c280::/29 Deny No access allowed from Republic of Moldova
+2a09:c800::/29 Deny No access allowed from Republic of Moldova
+2a09:cac0::/29 Deny No access allowed from Republic of Moldova
+2a09:e400::/29 Deny No access allowed from Republic of Moldova
+2a0a:1200::/29 Deny No access allowed from Republic of Moldova
+2a0a:2c00::/29 Deny No access allowed from Republic of Moldova
+2a0a:3700::/29 Deny No access allowed from Republic of Moldova
+2a0a:3780::/29 Deny No access allowed from Republic of Moldova
+2a0a:6000::/29 Deny No access allowed from Republic of Moldova
+2a0a:6480::/29 Deny No access allowed from Republic of Moldova
+2a0a:a840::/29 Deny No access allowed from Republic of Moldova
+2a0a:c801::/32 Deny No access allowed from Republic of Moldova
+2a0a:c802:5::/48 Deny No access allowed from Republic of Moldova
+2a0a:c802:6::/47 Deny No access allowed from Republic of Moldova
+2a0a:c802:8::/45 Deny No access allowed from Republic of Moldova
+2a0a:c802:10::/44 Deny No access allowed from Republic of Moldova
+2a0a:c802:20::/43 Deny No access allowed from Republic of Moldova
+2a0a:c802:40::/42 Deny No access allowed from Republic of Moldova
+2a0a:c802:80::/41 Deny No access allowed from Republic of Moldova
+2a0a:c802:100::/40 Deny No access allowed from Republic of Moldova
+2a0a:c802:200::/39 Deny No access allowed from Republic of Moldova
+2a0a:c802:400::/38 Deny No access allowed from Republic of Moldova
+2a0a:c802:800::/37 Deny No access allowed from Republic of Moldova
+2a0a:c802:1000::/36 Deny No access allowed from Republic of Moldova
+2a0a:c802:2000::/35 Deny No access allowed from Republic of Moldova
+2a0a:c802:4000::/34 Deny No access allowed from Republic of Moldova
+2a0a:c802:8000::/33 Deny No access allowed from Republic of Moldova
+2a0a:c803::/32 Deny No access allowed from Republic of Moldova
+2a0a:c804::/30 Deny No access allowed from Republic of Moldova
+2a0a:d580::/29 Deny No access allowed from Republic of Moldova
+2a0a:ef00::/29 Deny No access allowed from Republic of Moldova
+2a0b:280::/29 Deny No access allowed from Republic of Moldova
+2a0b:4900::/29 Deny No access allowed from Republic of Moldova
+2a0b:5b00::/29 Deny No access allowed from Republic of Moldova
+2a0b:b8c0::/29 Deny No access allowed from Republic of Moldova
+2a0b:dd00::/29 Deny No access allowed from Republic of Moldova
+2a0b:fdc0::/29 Deny No access allowed from Republic of Moldova
+2a0c:380::/29 Deny No access allowed from Republic of Moldova
+2a0c:1080::/29 Deny No access allowed from Republic of Moldova
+2a0c:3600::/32 Deny No access allowed from Republic of Moldova
+2a0c:3b00::/29 Deny No access allowed from Republic of Moldova
+2a0c:3f80::/29 Deny No access allowed from Republic of Moldova
+2a0c:57c0::/29 Deny No access allowed from Republic of Moldova
+2a0c:92c0::/32 Deny No access allowed from Republic of Moldova
+2a0c:eac0::/29 Deny No access allowed from Republic of Moldova
+2a0d:600::/29 Deny No access allowed from Republic of Moldova
+2a0d:1a00::/29 Deny No access allowed from Republic of Moldova
+2a0d:dac0::/29 Deny No access allowed from Republic of Moldova
+2a0d:dec0::/29 Deny No access allowed from Republic of Moldova
+2a0e:5180::/29 Deny No access allowed from Republic of Moldova
+2a0e:ac40::/29 Deny No access allowed from Republic of Moldova
+2a0e:b000::/29 Deny No access allowed from Republic of Moldova
+2a0e:c3c0::/29 Deny No access allowed from Republic of Moldova
+2a0e:d880::/29 Deny No access allowed from Republic of Moldova
+2a0e:f540::/29 Deny No access allowed from Republic of Moldova
+2a0f:740::/29 Deny No access allowed from Republic of Moldova
+2a0f:1780::/29 Deny No access allowed from Republic of Moldova
+2a0f:1b40::/29 Deny No access allowed from Republic of Moldova
+2a0f:3700::/29 Deny No access allowed from Republic of Moldova
+2a0f:3900::/29 Deny No access allowed from Republic of Moldova
+2a0f:4840::/29 Deny No access allowed from Republic of Moldova
+2a0f:4e40::/29 Deny No access allowed from Republic of Moldova
+2a0f:5f40::/29 Deny No access allowed from Republic of Moldova
+2a0f:6200::/29 Deny No access allowed from Republic of Moldova
+2a0f:82c0::/29 Deny No access allowed from Republic of Moldova
+2a0f:9380::/29 Deny No access allowed from Republic of Moldova
+2a0f:b200::/29 Deny No access allowed from Republic of Moldova
+2a0f:da00::/29 Deny No access allowed from Republic of Moldova
+2a0f:fa00::/29 Deny No access allowed from Republic of Moldova
+Origin: MD

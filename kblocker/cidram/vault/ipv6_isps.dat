@@ -1,0 +1,1480 @@
+# IPv6 signatures file (dangerous and spammy ISPs).
+# Canonical link to the online version of this file: https://github.com/CIDRAM/CIDRAM/blob/master/vault/ipv6_isps.dat
+
+
+# ---
+# ASN 29182 ("ISPsystem").
+# %Listed, Google Malware Dashboard: 1.69%.
+# %Listed, CleanTalk.org: 56.01%.
+# Stop Forum Spam (SFS) listings: 4,199.
+# Updated: 2018.03.31
+
+2a01:230::/48 Deny Generic
+2a01:230:2::/47 Deny Generic
+2a06:dc40::/29 Deny Generic
+Origin: RU
+Tag: ISPsystem
+
+
+# ASN 34619 ("Çizgi Telekomünikasyon").
+# %Listed, Google Malware Dashboard: 1.75%.
+# %Listed, CleanTalk.org: 19.41%.
+# Stop Forum Spam (SFS) listings: 27.
+# Updated: 2016.01.18 / Checked: 2018.03.21
+
+2a02:2020::/32 Deny Generic
+Origin: TR
+Tag: CIZGI TELEKOM
+
+
+# ASN 25504 ("Vautron Rechenzentrum AG").
+# %Listed, Google Malware Dashboard: 1.60%.
+# %Listed, CleanTalk.org: 37.50%.
+# Stop Forum Spam (SFS) listings: 2.
+# Updated: 2016.01.18 / Checked: 2018.03.01
+
+2001:67c:2394::/48 Deny Generic
+2a00:19e0::/29 Deny Generic
+Origin: DE
+Tag: Vautron Rech. AG
+
+
+# ASN 38955 ("World4You Internet Services").
+# %Listed, Google Malware Dashboard: 0.53%.
+# %Listed, CleanTalk.org: 31.25%.
+# Updated: 2016.01.18 / Checked: 2018.04.14
+
+2a00:1a68::/32 Deny Generic
+Origin: AT
+Tag: World4You
+
+
+# ASN 48159 ("Telecommunication Infrastructure Company").
+# %Listed, Google Malware Dashboard: 1.53%.
+# %Listed, CleanTalk.org: 10.39%.
+# %Listed, abuseat.org (CBL-Listed): 4.27%.
+# Stop Forum Spam (SFS) listings: 127.
+# Updated: 2016.07.13 / Checked: 2018.04.10
+
+2a03:57c0::/32 Deny Generic
+Origin: IR
+Tag: AS48159
+
+
+# ASNs 24940, 37153 ("Hetzner Online GmbH").
+# %Listed, Google Malware Dashboard: 0.52% (AS24940), 0.34% (AS37153).
+# %Listed, CleanTalk.org: 33.97% (AS24940), 32.17% (AS37153).
+# Stop Forum Spam (SFS) listings: 27,967 (AS24940), 337 (AS37153).
+# Updated: 2017.12.30 / Checked: 2018.03.31
+
+2001:67c:1164::/48 Deny Generic
+2a01:4f8::/29 Deny Generic
+2a06:be80::/29 Deny Generic
+2a0d:7e00::/48 Deny Generic
+Origin: DE
+2c0f:f300::/48 Deny Generic
+2c0f:fce8::/33 Deny Generic
+Origin: ZA
+Tag: Hetzner Online GmbH
+
+
+# ASN 51559 ("Server Internet Bilisim ve Bilgisayar Hizmetleri").
+# %Listed, Google Malware Dashboard: 0.38%.
+# %Listed, CleanTalk.org: 35.65%.
+# Stop Forum Spam (SFS) listings: 43.
+# Updated: 2018.03.26
+
+2a02:f80::/32 Deny Generic
+2a03:2100::/32 Deny Generic
+2a05:9bc0::/29 Deny Generic
+2a06:41c0::/29 Deny Generic
+2a06:c400::/29 Deny Generic
+2a0b:8100::/29 Deny Generic
+Origin: TR
+Tag: AS51559
+
+
+# ASN 45727 ("Hutchison CP Telecommunications, PT").
+# %Listed, CleanTalk.org: 32.56%.
+# Stop Forum Spam (SFS) listings: 353.
+# Updated: 2018.03.31
+
+2400:8b00:100::/42 Deny Spam
+2400:8b00:200::/42 Deny Spam
+2400:8b00:300::/42 Deny Spam
+2400:8b00:500::/42 Deny Spam
+2400:8b00:600::/42 Deny Spam
+2400:8b00:800::/42 Deny Spam
+2400:8b00:980::/42 Deny Spam
+2400:8b00:a00::/42 Deny Spam
+2400:8b00:a80::/42 Deny Spam
+2400:8b00:b00::/42 Deny Spam
+2400:8b00:b80::/42 Deny Spam
+2400:8b00:c00::/42 Deny Spam
+2400:8b00:c80::/42 Deny Spam
+2400:8b00:d00::/42 Deny Spam
+2400:8b00:d80::/42 Deny Spam
+2400:8b00:e00::/42 Deny Spam
+2400:8b00:e80::/42 Deny Spam
+2400:8b00:f00::/42 Deny Spam
+2400:8b00:f80::/42 Deny Spam
+2400:8b00:1000::/44 Deny Spam
+2400:8b00:a000::/47 Deny Spam
+Origin: ID
+Tag: PT Hutchison
+---
+recaptcha:
+ enabled: true
+
+
+# ASN 24203 ("PT Excelcomindo Pratama").
+# %Listed, CleanTalk.org: 6.54%.
+# %Listed, abuseat.org (CBL-Listed): 28.48%.
+# Stop Forum Spam (SFS) listings: 285.
+# Updated: 2017.12.08 / Checked: 2018.03.23
+
+2400:9800::/32 Deny Spam
+Origin: ID
+2600:1417:3000::/48 Deny Spam
+Origin: US
+Tag: PT Excelcomindo
+---
+recaptcha:
+ enabled: true
+
+
+# ASN 6870 ("H1 LLC").
+# %Listed, Google Malware Dashboard: 0.25%.
+# %Listed, CleanTalk.org: 69.74%.
+# Stop Forum Spam (SFS) listings: 2,411.
+# Updated: 2016.01.18 / Checked: 2018.03.01
+
+2a00:1f70::/32 Deny Generic
+Origin: RU
+Tag: H1 LLC
+
+
+# ASN 3223 ("Voxility LLC").
+# %Listed, Google Malware Dashboard: 1.06%.
+# %Listed, CleanTalk.org: 42.44%.
+# Stop Forum Spam (SFS) listings: 49,499.
+# Updated: 2018.02.26
+
+2a06:b380::/29 Deny Generic
+Origin: GB
+2a03:5180::/47 Deny Generic
+2a03:5180:2::/48 Deny Generic
+2a03:5180:4::/46 Deny Generic
+2a03:5180:8::/48 Deny Generic
+Origin: RO
+2a0d:cd00::/29 Deny Generic
+Origin: RU
+2602:ff84:8::/48 Deny Generic
+Origin: US
+Tag: Voxility LLC
+
+
+# ASN 30968 ("INFOBOX").
+# %Listed, Google Malware Dashboard: 0.64%.
+# %Listed, CleanTalk.org: 46.73%.
+# Stop Forum Spam (SFS) listings: 11.
+# Updated: 2016.01.18 / Checked: 2018.03.22
+
+2a02:440::/32 Deny Generic
+Origin: RU
+Tag: INFOBOX
+
+
+# ASN 49335 ("Mir Telematiki Ltd").
+# %Listed, Google Malware Dashboard: 0.74%.
+# %Listed, CleanTalk.org: 41.69%.
+# Stop Forum Spam (SFS) listings: 7,342.
+# Updated: 2018.04.10
+
+2a03:a960:1000::/48 Deny Spam
+2a0a:a600::/29 Deny Spam
+Origin: DE
+2a0a:f9c4::/32 Deny Spam
+Origin: EU
+2a0b:b86:fff0::/44 Deny Spam
+2a0b:b87:ffc0::/44 Deny Spam
+Origin: GB
+2a0b:7086:fff0::/44 Deny Spam
+2a0b:7087:fff0::/44 Deny Spam
+Origin: NL
+2a05:b80::/29 Deny Spam
+2a0c:4480::/29 Deny Spam
+2a0c:9d80::/29 Deny Spam
+Origin: RU
+2602:ff62:1::/48 Deny Spam
+Origin: US
+2c0f:f738:1::/48 Deny Spam
+Origin: ZA
+Tag: Mir Telematiki Ltd
+
+
+# ASN 45595 ("Pakistan Telecom").
+# %Listed, Google Malware Dashboard: 2.02%.
+# %Listed, CleanTalk.org: 12.33%.
+# %Listed, abuseat.org (CBL-Listed): 0.93%.
+# Stop Forum Spam (SFS) listings: 81,222.
+# Updated: 2017.03.22 / Checked: 2018.02.20
+
+2404:7000::/32 Deny Spam
+Origin: PK
+Tag: Pakistan Telecom
+---
+recaptcha:
+ enabled: true
+
+
+# ASN 41011 ("CH-NET S.R.L").
+# %Listed, Google Malware Dashboard: 1.29%.
+# %Listed, CleanTalk.org: 70.59%.
+# Stop Forum Spam (SFS) listings: 37.
+# Updated: 2017.06.28 / Checked: 2018.03.22
+
+2001:67c:2100::/48 Deny Generic
+2a06:afc0::/47 Deny Generic
+2a06:afc0:2::/48 Deny Generic
+Origin: RO
+Tag: CH-NET S.R.L
+
+
+# ASN 7743 ("JPMorgan Chase & Co").
+# Updated: 2017.12.30 / Checked: 2018.03.31
+
+2620:11::/40 Deny Generic
+Origin: US
+Tag: JPMorgan Chase & Co
+
+
+# ASN 42708 ("Portlane AB").
+# %Listed, Google Malware Dashboard: 2.10%.
+# %Listed, CleanTalk.org: 49.35%.
+# Stop Forum Spam (SFS) listings: 1,712.
+# Updated: 2018.01.13 / Checked: 2018.04.29
+
+2a01:8640:6::/48 Deny Spam
+2a01:8640:9::/48 Deny Spam
+Origin: GB
+2a00:1a28::/32 Deny Spam
+2a02:750:10::/48 Deny Spam
+2a02:7ac0::/32 Deny Spam
+Origin: SE
+2a0a:e2c6::/32 Deny Spam
+Origin: UA
+Tag: Portlane Networks AB
+---
+recaptcha:
+ enabled: true
+
+
+# ASN 44050 ("Petersburg Internet Network ltd").
+# %Listed, Google Malware Dashboard: 0.61%.
+# %Listed, CleanTalk.org: 67.56%.
+# Stop Forum Spam (SFS) listings: 2,799,200.
+# Updated: 2018.01.07 / Checked: 2018.03.19
+
+2a00:1d78::/32 Deny Generic
+Origin: RU
+Tag: PIN-AS
+
+
+# ASNs 16880, 36421 ("Trend Micro Incorporated").
+# Follows their users around and attempts to get into restricted/private parts of websites.
+# %Listed, CleanTalk.org: 28.57% (AS16880), 0% (AS36421).
+# Updated: 2018.03.31
+
+2620:101:402d::/48 Deny Generic
+2620:101:4034::/47 Deny Generic
+2620:101:4036::/48 Deny Generic
+2620:101:403a::/48 Deny Generic
+2620:101:403c::/48 Deny Generic
+2620:101:403f::/48 Deny Generic
+Origin: US
+Tag: Trend Micro
+
+
+# ASN 8551 ("Bezeq International-Ltd").
+# Legit Israeli ISP with mostly safe, normal, human internet traffic, but with some bad actors included (spambots,
+# hacktools, scrapers, etc). Those whose websites anticipate human internet traffic from Israel should include this
+# section in their "ignore.dat" file, or else risk false positives by way of blocking innocents connecting from Israel.
+# Those whose don't anticipate any human internet traffic from Israel to their websites can safely block this ASN.
+# %Listed, Google Malware Dashboard: 0.46%.
+# %Listed, CleanTalk.org: 10.52%.
+# %Listed, abuseat.org (CBL-Listed): 0.44%.
+# Stop Forum Spam (SFS) listings: 4,380.
+# Updated: 2018.03.08
+
+2a02:26f0:8000::/48 Deny Generic
+Origin: EU
+2001:4cd0::/32 Deny Generic
+Origin: IL
+2620:11b:e0be::/48 Deny Generic
+Origin: US
+Tag: Bezeq International
+---
+recaptcha:
+ enabled: true
+
+
+# ASNs 5486, 9116 ("012 Smile Communications LTD").
+# Spam emitters; Subsidiary of Bezeq International.
+# %Listed, Google Malware Dashboard: 0.55% (AS9116).
+# %Listed, CleanTalk.org: 34.24% (AS9116).
+# Stop Forum Spam (SFS) listings: 5,968 (AS9116).
+# Updated: 2016.12.10 / Checked: 2018.03.15
+
+2001:40a8::/32 Deny Spam
+Origin: IL
+Tag: 012 Smile
+---
+recaptcha:
+ enabled: true
+
+
+# ASN 51013 ("Websupport s.r.o").
+# %Listed, Google Malware Dashboard: 0.26%.
+# %Listed, CleanTalk.org: 56.47%.
+# Updated: 2017.09.22 / Checked: 2018.04.30
+
+2a00:4b40::/32 Deny Generic
+Origin: SK
+Tag: Websupport s.r.o
+
+
+# ASN 51191 ("Xirra GmbH").
+# %Listed, Google Malware Dashboard: 1.29%.
+# %Listed, CleanTalk.org: 32.07%.
+# Stop Forum Spam (SFS) listings: 1,514.
+# Updated: 2016.01.21 / Checked: 2018.02.12
+
+2a01:4a0:2000::/47 Deny Generic
+2a01:4a0:2002::/48 Deny Generic
+2a06:4b00::/29 Deny Generic
+Origin: DE
+Tag: Xirra GmbH
+
+
+# ASNs 35804, 43765 ("PP SKS-LUGAN").
+# %Listed, Google Malware Dashboard: 3.23% (AS35804).
+# %Listed, CleanTalk.org: 30.72% (AS35804), 100.00% (AS35804).
+# Stop Forum Spam (SFS) listings: 178 (AS35804), 1,160,630 (AS35804).
+# Updated: 2016.03.30 / Checked: 2018.03.06
+
+2a00:ede0::/32 Deny Generic
+Origin: UA
+Tag: PP SKS-LUGAN
+
+
+# ASN 13030 ("Init7").
+# %Listed, Google Malware Dashboard: 0.31%.
+# %Listed, CleanTalk.org: 18.03%.
+# Stop Forum Spam (SFS) listings: 565.
+# Updated: 2018.03.23
+
+2001:67c:7ac::/48 Deny Generic
+2001:67c:2648::/48 Deny Generic
+2001:1620::/32 Deny Generic
+2a00:e020::/32 Deny Generic
+2a00:f080::/42 Deny Generic
+2a02:168::/30 Deny Generic
+2a02:16a0::/32 Deny Generic
+2a03:7520::/32 Deny Generic
+2a07:600::/29 Deny Generic
+2a0a:dc07::/32 Deny Generic
+2a0a:df80:24::/48 Deny Generic
+2a0a:e5c0::/29 Deny Generic
+2a0b:5400:1::/48 Deny Generic
+Origin: CH
+2a00:5640::/32 Deny Generic
+Origin: DE
+2001:67c:1388::/48 Deny Generic
+Origin: GB
+2001:67c:2570::/48 Deny Generic
+Origin: LI
+Tag: Init7
+
+
+# ASNs 24700, 61316 ("Yes Networks Unlimited Ltd").
+# Updated: 2017.12.08 / Checked: 2018.03.26
+
+2a03:6540::/32 Deny Generic
+Origin: UA
+Tag: Yes Networks
+
+
+# ASNs 3491, 4760, 6279, 7262 ("PCCW Global" / "Beyond The Network America, Inc").
+# Careful when updating; Contains both "proxy" and "spam" parameters (should be marked differently).
+# Updated: 2018.04.05
+
+2001:730:2902:7::/64 Deny Spam
+2001:730:2d02:16::/64 Deny Spam
+Origin: AT
+2a02:13e0:2::/64 Deny Spam
+2a03:5400::/32 Deny Spam
+Origin: BE
+2607:f798:14:22::/63 Deny Spam
+Origin: CA
+2001:7f8::/64 Deny Spam
+2003:0:130c:8017::/64 Deny Spam
+2003:3c0:1603:10::/64 Deny Spam
+Origin: DE
+2001:1498:1:36e::/64 Deny Spam
+2001:1498:1:3e3::/64 Deny Spam
+Origin: ES
+2a01:62e0:f001:7b::/64 Deny Spam
+2a01:62e0:f001:94::/64 Deny Spam
+2a01:62e0:f001:ae::/63 Deny Spam
+2a01:62e0:f001:c5::/64 Deny Spam
+2a01:62e0:f001:d9::/64 Deny Spam
+2a01:62e0:f001:da::/64 Deny Spam
+2a01:62e0:f001:157::/64 Deny Spam
+Origin: EU
+2001:7f8:4::/63 Deny Spam
+2001:5002:400:2::/64 Deny Spam
+2a02:2d8:0:480a::/64 Deny Spam
+Origin: GB
+2001:7fa:0:1::/64 Deny Spam
+2400:8800::/32 Deny Spam
+2400:c800:610::/44 Deny Spam
+2404:c800::/29 Deny Spam
+Origin: HK
+2001:268:fc80:1::/64 Deny Spam
+2001:268:fc91:b::/64 Deny Spam
+2001:de8:4::/64 Deny Spam
+2001:de8:6::/64 Deny Spam
+2001:de8:7::/64 Deny Spam
+2402:6800:0:2060::/63 Deny Spam
+Origin: JP
+2001:478:132::/64 Deny Spam
+Origin: KN
+2400:800:1f11:4::/64 Deny Spam
+2400:800:7f06:25::/64 Deny Spam
+Origin: KR
+2001:1260:11a:ffff::/64 Deny Spam
+Origin: MX
+2c0f:f3d0::/32 Deny Spam
+Origin: MZ
+2001:7f8:1::/64 Deny Spam
+2a02:b48:4000::/34 Deny Spam
+Origin: NL
+2a0c:6980::/29 Deny Spam
+Origin: RU
+2001:428:101:16::/64 Deny Spam
+2001:428:201:21::/64 Deny Spam
+2001:428:401:c::/64 Deny Spam
+2001:428:801:8::/64 Deny Spam
+2001:428:c01:8::/64 Deny Spam
+2001:428:4401:5::/64 Deny Spam
+2001:428:f801::/64 Deny Spam
+2001:470:0:2b0::/64 Deny Spam
+2001:504:0:2::/64 Deny Spam
+2001:504:0:4::/63 Deny Spam
+2001:504:13::/64 Deny Spam
+2001:504:16::/64 Deny Spam
+2001:df2:e500:fe00::/64 Deny Spam
+2001:1890:1fff:226::/64 Deny Spam
+2001:1890:1fff:31e::/64 Deny Spam
+2001:1890:1fff:417::/64 Deny Spam
+2001:1890:1fff:620::/64 Deny Spam
+2001:1890:1fff:713::/64 Deny Spam
+2600:1400:7::/48 Deny Spam
+2600:1407:8::/64 Deny Spam
+2620:0:50a0:814::/64 Deny Spam
+2620:107:4008:172::/64 Deny Spam
+2620:107:4008:23e::/63 Deny Spam
+2620:107:4008:24b::/64 Deny Spam
+2620:107:4008:26d::/64 Deny Spam
+2620:107:4008:2ac::/64 Deny Spam
+Origin: US
+2001:43f8:6d0::/64 Deny Spam
+2c0f:f3c0::/32 Deny Spam
+Origin: ZA
+Tag: PCCW Global
+---
+recaptcha:
+ enabled: true
+
+
+# ASN 37254 ("GREEN FLASH TRADING").
+# %Listed, CleanTalk.org: 16.67%.
+# Stop Forum Spam (SFS) listings: 3.
+# Updated: 2016.05.12 / Checked: 2018.03.21
+
+2c0f:f4a8::/32 Deny Spam
+Origin: ZA
+Tag: GREEN FLASH TRADING
+
+
+# ASN 62454 ("Zyztm Research Division 10 B.V").
+# Cyber warfare, credit card theft, etc.
+# Stop Forum Spam (SFS) listings: 50.
+# Updated: 2016.04.23 / Checked: 2018.03.08
+
+2a01:54c0::/32 Deny Generic
+Origin: NL
+Tag: Zyztm
+
+
+# ASN 45753 ("Unit 1205-1207").
+# %Listed, Google Malware Dashboard: 6.28%.
+# %Listed, CleanTalk.org: 32.79%.
+# Stop Forum Spam (SFS) listings: 38.
+# Updated: 2018.03.15
+
+2401:4c00::/32 Deny Generic
+Origin: HK
+Tag: Unit 1205-1207
+
+
+# ASN 43260 ("DGN TEKNOLOJI BILISIM YAYINCILIK SANAYI VE LIMITED SIRKETI").
+# Caught trying to DDoS SFS.
+# %Listed, Google Malware Dashboard: 1.12%.
+# %Listed, CleanTalk.org: 40.11%.
+# Stop Forum Spam (SFS) listings: 130.
+# Updated: 2018.02.26
+
+2a0a:6040::/29 Deny Generic
+Origin: GL
+2a04:3880::/30 Deny Generic
+2a04:4280::/29 Deny Generic
+2a04:8340::/29 Deny Generic
+2a05:abc0::/29 Deny Generic
+2a05:b140::/29 Deny Generic
+2a05:b2c0::/29 Deny Generic
+2a05:b380::/29 Deny Generic
+2a05:b440::/29 Deny Generic
+2a05:b700::/29 Deny Generic
+2a05:b900::/29 Deny Generic
+2a05:ba00::/29 Deny Generic
+2a05:ccc0::/29 Deny Generic
+2a05:e5c0::/29 Deny Generic
+2a05:f740::/29 Deny Generic
+2a05:f7c0::/29 Deny Generic
+2a06:a80::/29 Deny Generic
+2a06:9140::/29 Deny Generic
+2a07:21c0::/29 Deny Generic
+2a0b:a280::/32 Deny Generic
+Origin: TR
+2402:1780:1::/48 Deny Generic
+Origin: TW
+Tag: DGN TEKNOLOJI
+
+
+# ASN 38731 ("Vietel - CHT Compamy Ltd").
+# %Listed, Google Malware Dashboard: 0.27%.
+# %Listed, CleanTalk.org: 34.31%.
+# Stop Forum Spam (SFS) listings: 181.
+# Updated: 2016.12.24 / Checked: 2018.03.15
+
+2401:5f80::/34 Deny Generic
+2401:5f80:4000::/35 Deny Generic
+Origin: VN
+Tag: Vietel
+---
+recaptcha:
+ enabled: true
+
+
+# ASN 6876 ("TeNeT Scientific Production Enterprise LLC").
+# %Listed, Google Malware Dashboard: 1.47%.
+# %Listed, CleanTalk.org: 23.14%.
+# Stop Forum Spam (SFS) listings: 1,015.
+# Updated: 2016.07.20 / Checked: 2018.04.10
+
+2a04:2c00::/29 Deny Generic
+Origin: UA
+Tag: TeNeT
+
+
+# ASN 31252 ("Starnet Servicii SRL").
+# %Listed, Google Malware Dashboard: 0.46%.
+# %Listed, CleanTalk.org: 17.27%.
+# Stop Forum Spam (SFS) listings: 60,780.
+# Updated: 2017.03.11 / Checked: 2018.04.30
+
+2a00:9900::/29 Deny Generic
+2a01:320::/29 Deny Generic
+2a0b:dd00::/29 Deny Generic
+Origin: MD
+Tag: STARNET S.R.L
+
+
+# ASN 17747 ("SITI NETWORKS LIMITED").
+# %Listed, CleanTalk.org: 6.19%.
+# %Listed, abuseat.org (CBL-Listed): 25.06%.
+# Stop Forum Spam (SFS) listings: 683.
+# Updated: 2016.09.04 / Checked: 2018.04.30
+
+2402:ea80::/48 Deny Spam
+2406:3c80::/46 Deny Spam
+Origin: IN
+Tag: SITI NETWORKS LTD
+---
+recaptcha:
+ enabled: true
+
+
+# ASN 45271 ("Idea Cellular Limited").
+# %Listed, CleanTalk.org: 0.19%.
+# %Listed, abuseat.org (CBL-Listed): 21.54%.
+# Stop Forum Spam (SFS) listings: 179.
+# Updated: 2018.05.03
+
+2402:8100:b::/48 Deny Spam
+2402:8100:2000::/41 Deny Spam
+2402:8100:2080::/42 Deny Spam
+2402:8100:2800::/41 Deny Spam
+2402:8100:3008::/45 Deny Spam
+2402:8100:3010::/44 Deny Spam
+2402:8100:3020::/44 Deny Spam
+2402:8100:3038::/45 Deny Spam
+2402:8100:3800::/47 Deny Spam
+2402:8100:3804::/46 Deny Spam
+2402:8100:3808::/45 Deny Spam
+2402:8100:3810::/44 Deny Spam
+2402:8100:3820::/43 Deny Spam
+2402:8100:3840::/42 Deny Spam
+2402:8100:38c0::/42 Deny Spam
+2402:8100:3900::/40 Deny Spam
+Origin: IN
+Tag: Idea Cellular
+---
+recaptcha:
+ enabled: true
+
+
+# ASNs 12530, 15895, 35081 ('"Kyivstar" PJSC').
+# %Listed, Google Malware Dashboard: 3.63% (AS12530), 0.79% (AS15895).
+# %Listed, CleanTalk.org: 13.30% (AS12530), 34.65% (AS15895).
+# %Listed, abuseat.org (CBL-Listed): 1.18% (AS15895).
+# Stop Forum Spam (SFS) listings: 541,741 (AS12530), 7,107,841 (AS15895).
+# Updated: 2016.09.06 / Checked: 2018.02.18
+
+2a02:8a8::/32 Deny Spam
+2a02:2378::/32 Deny Spam
+Origin: UA
+Tag: Kyivstar
+
+
+# ASN 13188 ("CONTENT DELIVERY NETWORK LTD").
+# %Listed, Google Malware Dashboard: 1.03%.
+# %Listed, CleanTalk.org: 15.50%.
+# Stop Forum Spam (SFS) listings: 214,867.
+# Updated: 2018.02.12
+
+2a03:7380::/38 Deny Spam
+2a03:7380:400::/39 Deny Spam
+2a03:7380:600::/41 Deny Spam
+2a03:7380:700::/42 Deny Spam
+2a03:7380:1e00::/42 Deny Spam
+2a03:7380:1e80::/42 Deny Spam
+2a03:7380:1f40::/42 Deny Spam
+2a03:7380:1f80::/42 Deny Spam
+2a03:7380:2000::/38 Deny Spam
+2a03:7380:2400::/40 Deny Spam
+2a03:7380:2500::/42 Deny Spam
+2a03:7380:2fc0::/42 Deny Spam
+2a03:7380:3000::/39 Deny Spam
+2a03:7380:4000::/41 Deny Spam
+2a03:7380:4080::/42 Deny Spam
+2a03:7380:5840::/42 Deny Spam
+2a03:7380:5c00::/42 Deny Spam
+2a03:7380:5c80::/42 Deny Spam
+2a03:7380:6000::/41 Deny Spam
+2a03:7380:6400::/42 Deny Spam
+2a03:7380:7380::/42 Deny Spam
+Origin: UA
+Tag: AS13188-CDN-LTD
+
+
+# ASN 48666 ("MAROSNET Telecommunication Company LLC").
+# %Listed, Google Malware Dashboard: 1.11%.
+# %Listed, CleanTalk.org: 44.84%.
+# Stop Forum Spam (SFS) listings: 74,226.
+# Updated: 2016.09.06 / Checked: 2018.04.17
+
+2a02:f680::/29 Deny Spam
+Origin: RU
+Tag: MAROSNET
+
+
+# ASNs 7552, 24086, 37620, 133606, 262210, 327799, 327885 ("Viettel Corporation").
+# Legit/real human endpoint ISP with high levels of spam/abuse reports listed at various DBs. List in the "ignore.dat"
+# file if the signature section causes any problems.
+# Updated: 2017.04.26 / Checked: 2018.02.20
+
+2402:800::/32 Deny Spam
+Origin: VN
+Tag: Viettel Corporation
+---
+recaptcha:
+ enabled: true
+
+
+# ASNs 29656, 57872, 60558, 207134 ("PHOENIX NAP, LLC").
+# Updated: 2017.07.08 / Checked: 2018.03.26
+
+2a00:8860::/32 Deny Generic
+Origin: EU
+Tag: PHOENIX NAP, LLC
+
+
+# ASNs 24955, 41704 ("Orenburgskaya Gorodskaya Set, ZAO").
+# %Listed, Google Malware Dashboard: 0.45% (AS24955).
+# %Listed, CleanTalk.org: 55.52% (AS24955), 10.94% (AS41704).
+# %Listed, abuseat.org (CBL-Listed): 1.17% (AS24955).
+# Stop Forum Spam (SFS) listings: 17,038 (AS24955), 33,218 (AS41704).
+# Updated: 2017.12.18 / Checked: 2018.03.29
+
+2a02:1c8:1::/48 Deny Spam
+2a02:1c8:7::/48 Deny Spam
+2a02:1c8:100::/40 Deny Spam
+2a02:1c8:700::/40 Deny Spam
+Origin: RU
+Tag: Ufanet
+---
+recaptcha:
+ enabled: true
+
+
+# ASN 9829 ("BSNL (Bharat Sanchar Nigam Ltd)").
+# Kind of a big AS, and does also carry legitimate human traffic, but the infection rate listed at CBL is excessively
+# high at the moment, with over a million bad listings currently and far surpassing that of any other AS.
+# I think it would be unwise to not block this AS. However, I'm marking it for use with reCAPTCHA, and those CIDRAM
+# users that don't want to block it can drop this section's tag into the ignore list as a means of ignoring this
+# listing if they want to do so. May remove this section in the future if the AS cleans up their act.
+# %Listed, Google Malware Dashboard: 0.13%.
+# %Listed, CleanTalk.org: 6.76%.
+# %Listed, abuseat.org (CBL-Listed): 7.78%.
+# Stop Forum Spam (SFS) listings: 5,918.
+# Updated: 2018.05.03
+
+2001:4490:7f8::/45 Deny Spam
+2001:4490:bfc::/46 Deny Spam
+2001:4490:ffc::/46 Deny Spam
+2001:4490:3ffc::/46 Deny Spam
+2001:4490:7000::/46 Deny Spam
+2001:4490:7400::/46 Deny Spam
+2001:4490:7800::/46 Deny Spam
+2001:4490:7c00::/46 Deny Spam
+2001:4490:d000::/46 Deny Spam
+2001:4490:d040::/46 Deny Spam
+2001:4490:d080::/46 Deny Spam
+2001:4490:d0c0::/46 Deny Spam
+2001:4490:d100::/46 Deny Spam
+2001:4490:d140::/46 Deny Spam
+2001:4490:d180::/46 Deny Spam
+2001:4490:d1c0::/46 Deny Spam
+2001:4490:d240::/46 Deny Spam
+2001:4490:d280::/46 Deny Spam
+2001:4490:d380::/46 Deny Spam
+2001:4490:d4c0::/46 Deny Spam
+2001:4490:d500::/46 Deny Spam
+2001:4490:d660::/45 Deny Spam
+2001:4490:d700::/46 Deny Spam
+2001:4490:d760::/46 Deny Spam
+2001:4490:d780::/46 Deny Spam
+2001:4490:d7a0::/46 Deny Spam
+2001:4490:d800::/46 Deny Spam
+2001:4490:d820::/46 Deny Spam
+2001:4490:d890::/46 Deny Spam
+2001:4490:d8c0::/46 Deny Spam
+2001:4490:d930::/46 Deny Spam
+2001:4490:d970::/46 Deny Spam
+2001:4490:d980::/46 Deny Spam
+2001:4490:d9a0::/46 Deny Spam
+2001:4490:da30::/46 Deny Spam
+2001:4490:da70::/46 Deny Spam
+2001:4490:dad0::/46 Deny Spam
+2001:4490:db40::/46 Deny Spam
+2001:4490:dbf0::/46 Deny Spam
+2001:4490:dc4c::/46 Deny Spam
+2001:4490:dd18::/46 Deny Spam
+2001:4490:dda8::/45 Deny Spam
+2001:4490:ddb0::/46 Deny Spam
+2001:4490:de18::/46 Deny Spam
+2001:4490:de24::/46 Deny Spam
+2001:4490:dfa8::/46 Deny Spam
+2001:4490:e000::/46 Deny Spam
+2001:4490:efe4::/46 Deny Spam
+2001:4490:efe8::/45 Deny Spam
+2001:4490:eff0::/44 Deny Spam
+2001:4490:f020::/46 Deny Spam
+2001:4490:fffc::/46 Deny Spam
+Origin: IN
+2600:140f:1000::/64 Deny Spam
+2600:1417:50::/47 Deny Spam
+Origin: US
+Tag: BSNL
+---
+recaptcha:
+ enabled: true
+
+
+# ASN 4134 ("China Telecom Backbone").
+# Interlaces with numerous providers and contains a large portion of Chinese human access endpoints; Would rather not
+# be including this section here due to the high risk of false positives, but the massive influx/uptick of undesirable
+# events (spamming, hacking, attempted brute-forcing, probing, etc) seen originating from across a wide range of CIDRs
+# tied this ASN, plus the presence of this ASN in numerous worst offenders lists and blacklists, are not considerations
+# that can be easily ignored at this point in time. The section is marked for use with reCAPTCHA due to the risk of
+# false positives, and I would encourage any CIDRAM users expecting to receive any traffic from China, to list this
+# section in their "ignore.dat" file as a means of minimising the potential impact of false positives. A balanced
+# approach for those that may expect some such traffic, but not a lot of it, would be to not ignore this section, but
+# to ensure that the reCAPTCHA feature is enabled in their configuration.
+# %Listed, Google Malware Dashboard: 3.20%.
+# %Listed, CleanTalk.org: 36.22%.
+# Stop Forum Spam (SFS) listings: 164,904.
+# Updated: 2018.01.13 / Checked: 2018.04.24
+
+2406:8500::/32 Deny Generic
+240e::/24 Deny Generic
+Origin: CN
+2a04:f580:8000::/48 Deny Generic
+2a04:f580:8010::/47 Deny Generic
+2a04:f580:8090::/48 Deny Generic
+2a04:f580:8200::/48 Deny Generic
+2a04:f580:8210::/47 Deny Generic
+2a04:f580:8290::/48 Deny Generic
+Origin: GB
+2400:9380:8000::/47 Deny Generic
+2400:9380:8020::/47 Deny Generic
+2400:9380:8030::/48 Deny Generic
+2400:9380:8200::/47 Deny Generic
+2400:9380:8221::/48 Deny Generic
+Origin: HK
+2605:9d80:8001::/48 Deny Generic
+2605:9d80:8011::/48 Deny Generic
+2605:9d80:8031::/48 Deny Generic
+2605:9d80:8041::/48 Deny Generic
+Origin: US
+2c0f:f7a8:8010::/47 Deny Generic
+2c0f:f7a8:8210::/47 Deny Generic
+Origin: ZA
+Tag: China Backbone 4134
+---
+recaptcha:
+ enabled: true
+
+
+# ASN 36678 ("CHINA TELECOM (AMERICAS) CORPORATION").
+# %Listed, Google Malware Dashboard: 7.61%.
+# %Listed, CleanTalk.org: 30.77%.
+# Stop Forum Spam (SFS) listings: 12.
+# Updated: 2018.02.26
+
+2605:9d80:a000::/48 Deny Generic
+Origin: US
+Tag: China Telecom USA
+---
+recaptcha:
+ enabled: true
+
+
+# ASN 4837 ("China Unicom Backbone").
+# Interlaces with numerous providers and contains a large portion of Chinese human access endpoints; Would rather not
+# be including this section here due to the high risk of false positives, but the massive influx/uptick of undesirable
+# events (spamming, hacking, attempted brute-forcing, probing, etc) seen originating from across a wide range of CIDRs
+# tied this ASN, plus the presence of this ASN in numerous worst offenders lists and blacklists, are not considerations
+# that can be easily ignored at this point in time. The section is marked for use with reCAPTCHA due to the risk of
+# false positives, and I would encourage any CIDRAM users expecting to receive any traffic from China, to list this
+# section in their "ignore.dat" file as a means of minimising the potential impact of false positives. A balanced
+# approach for those that may expect some such traffic, but not a lot of it, would be to not ignore this section, but
+# to ensure that the reCAPTCHA feature is enabled in their configuration.
+# %Listed, Google Malware Dashboard: 1.98%.
+# %Listed, CleanTalk.org: 24.97%.
+# %Listed, abuseat.org (CBL-Listed): 0.58%.
+# Stop Forum Spam (SFS) listings: 22,295.
+# Updated: 2018.02.04 / Checked: 2018.05.03
+
+2408:8000::/20 Deny Generic
+Origin: CN
+Tag: China Backbone 4837
+---
+recaptcha:
+ enabled: true
+
+
+# ASN 3462 ("Data Communication Business Group").
+# Interlaces with human access endpoints in Taiwan; Would rather not be including this section here due to the high
+# risk of false positives, but the numerous records of spamming events seen originating from across a wide range of
+# CIDRs tied this ASN, plus the presence of this ASN in numerous worst offenders lists and blacklists, are not
+# considerations that can be easily ignored at this point in time. The section is marked for use with reCAPTCHA due to
+# the risk of false positives, and I would encourage any CIDRAM users expecting to receive any traffic from Taiwan, to
+# list this section in their "ignore.dat" file as a means of minimising the potential impact of false positives. A
+# balanced approach for those that may expect some such traffic, but not a lot of it, would be to not ignore this
+# section, but to ensure that the reCAPTCHA feature is enabled in their configuration.
+# %Listed, Google Malware Dashboard: 0.58%.
+# %Listed, CleanTalk.org: 26.42%.
+# %Listed, abuseat.org (CBL-Listed): 0.71%.
+# Stop Forum Spam (SFS) listings: 5,467.
+# Updated: 2017.09.25 / Checked: 2018.04.13
+
+2001:b000::/21 Deny Generic
+2405:6100::/32 Deny Generic
+2406:300::/32 Deny Generic
+2407:4700::/32 Deny Generic
+Origin: TW
+2606:c00:35:2::/64 Deny Generic
+Origin: US
+Tag: DCBG
+---
+recaptcha:
+ enabled: true
+
+
+# ASN 4808 ("China Unicom Beijing Province Network").
+# Interlaces with human access endpoints in Taiwan; Would rather not be including this section here due to the high
+# risk of false positives, but the numerous records of spamming events seen originating from across a wide range of
+# CIDRs tied this ASN, plus the presence of this ASN in numerous worst offenders lists and blacklists, are not
+# considerations that can be easily ignored at this point in time. The section is marked for use with reCAPTCHA due to
+# the risk of false positives, and I would encourage that any CIDRAM users expecting to receive any traffic from
+# Taiwan, to list this section in their "ignore.dat" file as a means of minimising the potential impact of false
+# positives. A balanced approach for those that may expect some such traffic, but not a lot of it, would be to not
+# ignore this section, but to ensure that the reCAPTCHA feature is enabled in their configuration.
+# %Listed, Google Malware Dashboard: 2.82%.
+# %Listed, CleanTalk.org: 29.81%.
+# %Listed, abuseat.org (CBL-Listed): 0.07%.
+# Stop Forum Spam (SFS) listings: 2,129.
+# Updated: 2018.02.18
+
+2408:8000:1000::/36 Deny Generic
+2408:8020::/30 Deny Generic
+2408:8024::/33 Deny Generic
+2408:80e0:4000::/34 Deny Generic
+2408:80e0:8000::/33 Deny Generic
+2408:80f0:4000::/34 Deny Generic
+2408:80f0:8000::/33 Deny Generic
+Origin: CN
+Tag: China Unicom 4808
+---
+recaptcha:
+ enabled: true
+
+
+# ASN 45899 ("VietNam Post and Telecom Corporation").
+# Interlaces with numerous providers and contains a large portion of Vietnamese human access endpoints; Would rather
+# not be including this section here due to the high risk of false positives, but the massive influx/uptick of
+# undesirable events (spamming, hacking, attempted brute-forcing, probing, etc) seen originating from across a wide
+# range of CIDRs tied this ASN, plus the presence of this ASN in numerous worst offenders lists and blacklists, are
+# not considerations that can be easily ignored at this point in time. The section is marked for use with reCAPTCHA
+# due to the risk of false positives, and I would encourage any Vietnamese CIDRAM users, and any CIDRAM users
+# expecting to receive any traffic from Vietnam, to list this section in their ignore file as a means of minimising
+# the potential impact of false positives. A balanced approach for those that may expect some such traffic, but not a
+# lot of it, would be to not ignore this section, but to ensure that the reCAPTCHA feature is enabled in their
+# configuration.
+# %Listed, Google Malware Dashboard: 0.56%.
+# %Listed, CleanTalk.org: 14.37%.
+# %Listed, abuseat.org (CBL-Listed): 3.78%.
+# Stop Forum Spam (SFS) listings: 12,345.
+# Updated: 2018.04.29
+
+2001:df2:ca00::/48 Deny Generic
+2001:df2:ce00::/48 Deny Generic
+2001:ee0:1::/48 Deny Generic
+2001:ee0:200::/40 Deny Generic
+2001:ee0:300::/47 Deny Generic
+2001:ee0:305::/48 Deny Generic
+2001:ee0:1006::/48 Deny Generic
+2001:ee0:1080::/48 Deny Generic
+2001:ee0:2f00::/43 Deny Generic
+2001:ee0:3100::/43 Deny Generic
+2001:ee0:3200::/40 Deny Generic
+2001:ee0:4000::/39 Deny Generic
+2001:ee0:4240::/42 Deny Generic
+2001:ee0:4280::/42 Deny Generic
+2001:ee0:4340::/42 Deny Generic
+2001:ee0:4380::/42 Deny Generic
+2001:ee0:44c0::/42 Deny Generic
+2001:ee0:4500::/42 Deny Generic
+2001:ee0:4580::/41 Deny Generic
+2001:ee0:4640::/42 Deny Generic
+2001:ee0:46c0::/42 Deny Generic
+2001:ee0:4700::/41 Deny Generic
+2001:ee0:47c0::/42 Deny Generic
+2001:ee0:4840::/42 Deny Generic
+2001:ee0:4880::/42 Deny Generic
+2001:ee0:4900::/40 Deny Generic
+2001:ee0:4b00::/40 Deny Generic
+2001:ee0:4c00::/40 Deny Generic
+2001:ee0:4d00::/41 Deny Generic
+2001:ee0:4d80::/42 Deny Generic
+2001:ee0:4e00::/42 Deny Generic
+2001:ee0:4f00::/41 Deny Generic
+2001:ee0:5100::/40 Deny Generic
+2001:ee0:5200::/40 Deny Generic
+2001:ee0:5300::/42 Deny Generic
+2001:ee0:5380::/41 Deny Generic
+2001:ee0:5400::/40 Deny Generic
+2001:ee0:5500::/42 Deny Generic
+2001:ee0:5580::/41 Deny Generic
+2001:ee0:5600::/40 Deny Generic
+2001:ee0:5700::/41 Deny Generic
+2001:ee0:7240::/42 Deny Generic
+2001:ee0:7280::/42 Deny Generic
+2001:ee0:7340::/42 Deny Generic
+2001:ee0:73c0::/42 Deny Generic
+2001:ee0:74c0::/42 Deny Generic
+2001:ee0:7500::/42 Deny Generic
+2001:ee0:7580::/41 Deny Generic
+2001:ee0:7640::/42 Deny Generic
+2001:ee0:76c0::/42 Deny Generic
+2001:ee0:7700::/42 Deny Generic
+2001:ee0:77c0::/42 Deny Generic
+2001:ee0:7840::/42 Deny Generic
+2001:ee0:7880::/42 Deny Generic
+2001:ee0:7900::/40 Deny Generic
+2405:f980::/48 Deny Generic
+Origin: VN
+Tag: VNPT Corp
+---
+recaptcha:
+ enabled: true
+
+
+# ASN 18403 ("The Corporation for Financing & Promoting Technology").
+# Interlaces with numerous providers and contains a large portion of Vietnamese human access endpoints; Would rather
+# not be including this section here due to the high risk of false positives, but the massive influx/uptick of
+# undesirable events (spamming, hacking, attempted brute-forcing, probing, etc) seen originating from across a wide
+# range of CIDRs tied this ASN, plus the presence of this ASN in numerous worst offenders lists and blacklists, are
+# not considerations that can be easily ignored at this point in time. The section is marked for use with reCAPTCHA
+# due to the risk of false positives, and I would encourage any Vietnamese CIDRAM users, and any CIDRAM users
+# expecting to receive any traffic from Vietnam, to list this section in their ignore file as a means of minimising
+# the potential impact of false positives. A balanced approach for those that may expect some such traffic, but not a
+# lot of it, would be to not ignore this section, but to ensure that the reCAPTCHA feature is enabled in their
+# configuration.
+# %Listed, Google Malware Dashboard: 0.70%.
+# %Listed, CleanTalk.org: 17.43%.
+# %Listed, abuseat.org (CBL-Listed): 2.35%.
+# Stop Forum Spam (SFS) listings: 15,007.
+# Updated: 2017.12.28 / Checked: 2018.03.31
+
+2001:df2:d900::/48 Deny Generic
+2001:df6:1e00::/48 Deny Generic
+2401:f740::/32 Deny Generic
+2405:4800::/32 Deny Generic
+Origin: VN
+Tag: CFPT
+---
+recaptcha:
+ enabled: true
+
+
+# ASNs 9498, 9730, 24560, 37140, 45514, 45517, 45609, 132045 ("Bharti Airtel").
+# Interlaces with numerous providers and contains a large portion of Indian human access endpoints; Would rather not
+# be including this section here due to the high risk of false positives, but the significant number of spamming events
+# originating from CIDRs tied these ASNs, plus the presence of these ASNs in numerous worst offenders lists and
+# blacklists, are not considerations that can be easily ignored at this point in time. The section is marked for use
+# with reCAPTCHA due to the risk of false positives, and I would encourage any CIDRAM users expecting to receive any
+# traffic from India, to list this section in their "ignore.dat" file as a means of minimising the potential impact of
+# false positives. A balanced approach for those that may expect some such traffic, but not a lot of it, would be to
+# not ignore this section, but to ensure that the reCAPTCHA feature is enabled in their configuration.
+# Updated: 2018.03.31
+
+2001:7f8::/64 Deny Spam
+2a01:4a0:1338:57::/64 Deny Spam
+Origin: DE
+2001:2000:3080:eb::/64 Deny Spam
+2001:2000:3080:780::/64 Deny Spam
+2001:2000:3080:79e::/64 Deny Spam
+2a01:62e0:f001:17b::/64 Deny Spam
+Origin: EU
+2001:7f8:36::/64 Deny Spam
+Origin: FR
+2001:df5:b800:bb00::/64 Deny Spam
+2400:8800:1f02:d::/64 Deny Spam
+2400:8800:1f02:2b::/64 Deny Spam
+2400:8800:1f02:46::/63 Deny Spam
+2400:8800:7f06:22::/63 Deny Spam
+2404:d180:1:4::/64 Deny Spam
+Origin: HK
+2a03:2887:ff00::/48 Deny Spam
+2a03:2887:ff02::/47 Deny Spam
+2a03:2887:ff04::/46 Deny Spam
+2a03:2887:ff08::/48 Deny Spam
+2a03:2887:ff0a::/48 Deny Spam
+Origin: IE
+2001:de8:1::/64 Deny Spam
+2001:de8:1:2::/64 Deny Spam
+2001:de8:1:5::/64 Deny Spam
+2401:4900:c0:2000::/64 Deny Spam
+2401:4900:808::/45 Deny Spam
+2401:4900:810::/44 Deny Spam
+2401:4900:840::/44 Deny Spam
+2401:4900:880::/44 Deny Spam
+2401:4900:900::/40 Deny Spam
+2401:4900:a00::/39 Deny Spam
+2401:4900:c00::/40 Deny Spam
+2401:4900:1000::/41 Deny Spam
+2401:4900:1100::/41 Deny Spam
+2401:4900:1200::/40 Deny Spam
+2401:4900:1300::/41 Deny Spam
+2401:4900:1680::/42 Deny Spam
+2401:4900:16c0::/43 Deny Spam
+2401:4900:16e0::/44 Deny Spam
+2401:4900:1710::/44 Deny Spam
+2401:4900:1720::/43 Deny Spam
+2401:4900:1740::/45 Deny Spam
+2401:4900:1800::/41 Deny Spam
+2401:4900:1900::/40 Deny Spam
+2401:4900:1d00::/41 Deny Spam
+2401:4900:2000::/48 Deny Spam
+2401:4900:2080::/48 Deny Spam
+2401:4900:2100::/48 Deny Spam
+2401:4900:2180::/41 Deny Spam
+2401:4900:2280::/48 Deny Spam
+2401:4900:2300::/48 Deny Spam
+2401:4900:2340::/48 Deny Spam
+2401:4900:2500::/46 Deny Spam
+2401:4900:2504::/47 Deny Spam
+2401:4900:2580::/41 Deny Spam
+2401:4900:2600::/39 Deny Spam
+2401:4900:2e80::/41 Deny Spam
+2401:4900:2f00::/40 Deny Spam
+2404:a800::/32 Deny Spam
+2405:a700:14::/47 Deny Spam
+2407:7400::/48 Deny Spam
+Origin: IN
+2001:de8:4::/64 Deny Spam
+2001:de8:7::/64 Deny Spam
+2001:de8:c::/64 Deny Spam
+Origin: JP
+2400:ff00::/32 Deny Spam
+Origin: LK
+2001:7f8:1::/64 Deny Spam
+2001:7f8:13::/64 Deny Spam
+Origin: NL
+2001:428:601:10::/64 Deny Spam
+2001:428:4c01:c::/64 Deny Spam
+2001:450:2002:18c::/64 Deny Spam
+2001:504:1::/64 Deny Spam
+2001:504:d::/64 Deny Spam
+2001:504:f::/64 Deny Spam
+2001:504:13::/64 Deny Spam
+2001:504:36::/64 Deny Spam
+2600:140f:3::/48 Deny Spam
+2600:140f:b::/48 Deny Spam
+2600:140f:d::/48 Deny Spam
+2600:140f:e::/48 Deny Spam
+2600:140f:5000::/48 Deny Spam
+2600:140f:7000::/48 Deny Spam
+2600:140f:9000::/48 Deny Spam
+2600:140f:b000::/48 Deny Spam
+2600:140f:d000::/64 Deny Spam
+2600:1417:1e::/48 Deny Spam
+2600:1417:20::/48 Deny Spam
+2600:1417:2c::/48 Deny Spam
+2600:1417:53::/48 Deny Spam
+2600:1417:55::/48 Deny Spam
+2600:1417:56::/48 Deny Spam
+2600:1417:6a::/47 Deny Spam
+2600:1417:6d::/48 Deny Spam
+2600:1417:6e::/48 Deny Spam
+2600:1417:70::/48 Deny Spam
+2600:1417:78::/48 Deny Spam
+2620:107:4008:223::/64 Deny Spam
+Origin: US
+Tag: Bharti Airtel
+---
+recaptcha:
+ enabled: true
+
+
+# ASN 23944 ("SKYBroadband SKYCable Corporation").
+# ( No problems encountered from their IPv6 ranges yet, but included here anyhow for reference, but commented out. )
+# %Listed, CleanTalk.org: 4.87%.
+# Stop Forum Spam (SFS) listings: 139.
+# Updated: 2017.12.30 / Checked: 2018.03.31
+
+# 2404:3c00:1000::/36 Deny Spam
+# 2404:3c00:2000::/35 Deny Spam
+# 2404:3c00:4000::/36 Deny Spam
+Origin: PH
+Tag: SKYBROADBAND
+---
+recaptcha:
+ enabled: true
+
+
+# ASN 9387 ("AUGERE-Pakistan").
+# %Listed, CleanTalk.org: 11.07%.
+# %Listed, abuseat.org (CBL-Listed): 11.40%.
+# Stop Forum Spam (SFS) listings: 52.
+# Updated: 2017.03.22 / Checked: 2018.04.30
+
+2401:4100::/32 Deny Spam
+Origin: PK
+Tag: AUGERE-Pakistan
+---
+recaptcha:
+ enabled: true
+
+
+# "PJSC Rostelecom".
+# Known ASNs: 3239, 5573, 6828, 6863, 8382, 8443, 8557, 8568, 8570, 8594, 8675, 8828, 8997, 12332, 12380, 12389,
+#   12683, 12705, 12730, 12846, 13056, 13118, 15468, 15759, 16054, 16287, 16301, 20519, 21017, 21378, 21479, 21487,
+#   24665, 24699, 24783, 24789, 24810, 24810, 24873, 25436, 25490, 25515, 28719, 28860, 29456, 30749, 31094, 31185,
+#   31353, 31496, 33887, 33934, 34137, 34168, 34205, 34267, 34584, 34875, 34974, 35125, 35154, 35177, 35389, 35400,
+#   35516, 35531, 38951, 38985, 39054, 39229, 39407, 41134, 42091, 42362, 42548, 42610, 43053, 43132, 43574, 44237,
+#   44412, 44467, 47460, 56341, 56350, 196747.
+# Very large amount of spam originating from this provider, which we could prevent by blocking the CIDRs associated
+# with it. Unfortunately, it also happens to be the #1 largest ISP in Russia, and blocking it entirely would
+# effectively be blocking the majority of human visitors to access protected websites visiting from within Russia,
+# which we don't want to be doing by default (although, for those that don't mind this idea, the optional blocklist
+# provided by MacMathan for blocking Russia would be highly recommended as a means to do so). Aggregating such a large
+# number of different ASNs into the one same section generally isn't a good idea either, due to increased
+# maintainability costs. As a compromise, I propose including a section here for PJSC Rostelecom, but we'll only
+# include those ASNs/CIDRs that we can clearly identify as being significant sources of spam, significantly "toxic",
+# etc. As an additional safety measure to minimise false positives, the section is marked for use with reCAPTCHA. If
+# this strategy fails, we may upgrade this section to eventually include the entire announces aggregate anyhow, and
+# just include an entry in ours ignores file to ignore by default, until commented out or removed.
+
+# ASN 12389 ("PJSC Rostelecom").
+# Careful about "2002::/16" listing: Never include this in the aggregated list!
+# %Listed, Google Malware Dashboard: 0.48%.
+# %Listed, CleanTalk.org: 10.87%.
+# %Listed, abuseat.org (CBL-Listed): 1.37%.
+# Stop Forum Spam (SFS) listings: 308,824.
+# Updated: 2018.05.03
+
+2a00:1e88::/32 Deny Spam
+2a01:540::/36 Deny Spam
+2a01:540:2000::/35 Deny Spam
+2a01:540:4000::/36 Deny Spam
+2a01:540:6000::/36 Deny Spam
+2a01:540:8000::/36 Deny Spam
+2a01:540:a000::/36 Deny Spam
+2a01:540:c000::/36 Deny Spam
+2a01:620::/32 Deny Spam
+Origin: RU
+Tag: PJSC Rostelecom
+---
+recaptcha:
+ enabled: true
+
+
+# ASN 8402 ("OJSC Vimpelcom").
+# %Listed, Google Malware Dashboard: 0.44%.
+# %Listed, CleanTalk.org: 15.69%.
+# %Listed, abuseat.org (CBL-Listed): 0.43%.
+# Stop Forum Spam (SFS) listings: 10,340.
+# Similarly to with the Rostelecom CIDRs, blocking the entirety of all "Vimpelcom" ASNs could be problematic. Instead,
+# we'll try to limit listings to those CIDRs known to be problematic (hacking events, spamming events, etc).
+# Updated: 2017.06.08 / Checked: 2018.02.04
+
+2a00:18c0::/32 Deny Generic
+Origin: RU
+Tag: OJSC Vimpelcom
+---
+recaptcha:
+ enabled: true
+
+
+# ASN 3216 ("PJSC Vimpelcom").
+# %Listed, Google Malware Dashboard: 4.75%.
+# %Listed, CleanTalk.org: 11.36%.
+# Stop Forum Spam (SFS) listings: 12,002.
+# Similarly to with the Rostelecom CIDRs, blocking the entirety of all "Vimpelcom" ASNs could be problematic. Instead,
+# we'll try to limit listings to those CIDRs known to be problematic (hacking events, spamming events, etc).
+# Updated: 2017.09.30 / Checked: 2018.02.04
+
+2a00:1248::/32 Deny Generic
+Origin: RU
+Tag: PJSC Vimpelcom
+---
+recaptcha:
+ enabled: true
+
+
+# ASN 31200 ("Novotelecom Ltd").
+# %Listed, Google Malware Dashboard: 0.22%.
+# %Listed, CleanTalk.org: 12.11%.
+# Stop Forum Spam (SFS) listings: 3,175.
+# Similarly to with the Rostelecom CIDRs, blocking the entirety of all the "Novotelecom" ASNs could be problematic.
+# Instead, we'll try to limit listings to those CIDRs known to be problematic (hacking events, spamming events,
+# etc).
+# Updated: 2017.09.30 / Checked: 2018.02.04
+
+2a00:7700::/32 Deny Generic
+Origin: RU
+Tag: Novotelecom Ltd
+---
+recaptcha:
+ enabled: true
+
+
+# ASN 3255: State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic and Research Network" of the
+#   Institute for Condensed Matter Physics of the National Academy of Science of Ukraine (UARNet).
+# %Listed, Google Malware Dashboard: 0.27%.
+# %Listed, CleanTalk.org: 22.12%.
+# Stop Forum Spam (SFS) listings: 4,811.
+# Updated: 2017.07.08 / Checked: 2018.03.23
+
+2a00:fc00::/32 Deny Spam
+Origin: UA
+Tag: UARNet
+---
+recaptcha:
+ enabled: true
+
+
+# ASN 44493 ("Chelyabinsk-Signal").
+# %Listed, Google Malware Dashboard: 2.21%.
+# %Listed, CleanTalk.org: 37.35%.
+# Stop Forum Spam (SFS) listings: 194.
+# Updated: 2017.07.08 / Checked: 2018.03.23
+
+2a03:a0e0::/32 Deny Spam
+Origin: RU
+Tag: Chelyabinsk-Signal
+---
+recaptcha:
+ enabled: true
+
+
+# ASN 44775 ("Closed Joint Stock Company TransTeleCom").
+# %Listed, CleanTalk.org: 5.36%.
+# Stop Forum Spam (SFS) listings: 28.
+# Updated: 2017.07.08 / Checked: 2018.03.26
+
+2a02:28d8::/36 Deny Spam
+Origin: RU
+Tag: TransTeleCom
+---
+recaptcha:
+ enabled: true
+
+
+# ASNs 42682, 51570 ('JSC "ER-Telecom Holding"').
+# %Listed, CleanTalk.org: 61.30% (AS42682), 14.94% (AS51570).
+# Stop Forum Spam (SFS) listings: 19,203 (AS42682), 1,210 (AS51570).
+# Updated: 2017.12.18 / Checked: 2018.03.27
+
+2a02:2698:4c00::/38 Deny Spam
+2a02:2698:6c00::/38 Deny Spam
+2a02:2698:a000::/48 Deny Spam
+Origin: RU
+Tag: ER-Telecom Holding
+---
+recaptcha:
+ enabled: true
+
+
+# ASNs 8369, 198675, 199619 ("Intersvyaz-2 JSC").
+# Caught trying to hack into WordPress sites.
+# Updated: 2018.03.27
+
+2a02:22a8::/32 Deny Generic
+Origin: RU
+Tag: is74.ru
+---
+recaptcha:
+ enabled: true
+
+
+# ASN 25408 ("WEST CALL SPb LLC").
+# %Listed, Google Malware Dashboard: 1.10%.
+# %Listed, CleanTalk.org: 8.62%.
+# Stop Forum Spam (SFS) listings: 241.
+# Updated: 2017.11.26 / Checked: 2018.03.22
+
+2a00:1c78::/29 Deny Generic
+Origin: RU
+Tag: WEST CALL SPb LLC
+---
+recaptcha:
+ enabled: true
+
+
+# ASN 198093 ("Foreningen for digitala fri- och rattigheter").
+# Dead homepage and high levels of automated spam from this ASN.
+# %Listed, CleanTalk.org: 90.91%.
+# Stop Forum Spam (SFS) listings: 29,737.
+# Updated: 2017.12.11 / Checked: 2018.03.26
+
+2001:67c:16b0::/48 Deny Spam
+2001:67c:289c::/48 Deny Spam
+Origin: SE
+Tag: Foreningen
+
+
+# ASN 31148 ("Freenet Ltd").
+# %Listed, CleanTalk.org: 13.65%.
+# Stop Forum Spam (SFS) listings: 698.
+# Legit human endpoint/ISP based in Ukraine, but have been encountering numerous hack attempts from their ASN in recent
+# months. Marking this section for use with reCAPTCHA, because we don't want to accidentally block human users if we
+# can avoid it at all. HUGE numbers of nefarious listings at MegaRBL.net and AbuseIPDB.com! Can't really afford to just
+# ignore it. Ukrainian CIDRAM users should probably add the name of this section to their ignore.dat file.
+# Updated: 2018.02.20
+
+2a00:1228::/32 Deny Generic
+Origin: UA
+Tag: Freenet Ltd
+---
+recaptcha:
+ enabled: true
+
+
+# ASN 9009 ("M247 Ltd").
+# Multiplay network providing broadband connectivity, server leasing, line rental, webhosting services and others.
+# Some risk of false positives exists. To reduce this, when updating:
+# - Remove all subordinates of 38.0.0.0/8 from final aggregate (already blocked elsewhere and don't want duplicates).
+# - Section still under review, and further work needed to minimise false positives.
+# %Listed, Google Malware Dashboard: 0.65%.
+# %Listed, CleanTalk.org: 58.66%.
+# Stop Forum Spam (SFS) listings: 46,916.
+# Updated: 2018.03.28
+
+2001:978:2305::/48 Deny Generic
+2001:978:3400::/48 Deny Generic
+Origin: DE
+2a01:300::/29 Deny Generic
+2a05:9f41:1a::/48 Deny Generic
+Origin: EU
+2001:ac8::/32 Deny Generic
+2a00:b320::/48 Deny Generic
+2a02:40::/32 Deny Generic
+2a02:710:1000:700::/56 Deny Generic
+2a03:34c0::/32 Deny Generic
+2a07:a343:120::/44 Deny Generic
+2a07:a343:3c00::/44 Deny Generic
+2a07:a343:7870::/44 Deny Generic
+2a07:a343:94d0::/44 Deny Generic
+2a07:a343:aee0::/44 Deny Generic
+2a07:a343:bc70::/44 Deny Generic
+2a07:a343:cd10::/44 Deny Generic
+2a07:a343:ce30::/44 Deny Generic
+2a07:a343:e0f0::/44 Deny Generic
+2a07:a343:f210::/44 Deny Generic
+2a0a:b640:1::/48 Deny Generic
+2a0a:b640:2::/47 Deny Generic
+Origin: GB
+2a00:55a0:ea00::/40 Deny Generic
+2a00:55a0:f000::/40 Deny Generic
+2a00:55a0:f900::/40 Deny Generic
+2a00:55a0:ff00::/40 Deny Generic
+Origin: IL
+2a04:9dc0::/29 Deny Generic
+2a07:9200::/46 Deny Generic
+2a07:9200:4::/47 Deny Generic
+Origin: RO
+2a0d:db00::/32 Deny Generic
+Origin: RU
+2001:504:f::/64 Deny Generic
+2001:550:1d05::/48 Deny Generic
+2604:17c0::/41 Deny Generic
+2604:17c0:80::/42 Deny Generic
+2607:6980:e710::/44 Deny Generic
+2a0d:5600:1::/48 Deny Generic
+2a0d:5600:2::/47 Deny Generic
+2a0d:5600:4::/46 Deny Generic
+2a0d:5600:8::/45 Deny Generic
+2a0d:5600:11::/48 Deny Generic
+2a0d:5600:12::/47 Deny Generic
+Origin: US
+Tag: M247 Ltd
+---
+recaptcha:
+ enabled: true

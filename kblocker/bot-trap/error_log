@@ -1,0 +1,96 @@
+[10-Nov-2017 23:48:06 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 4
+[10-Nov-2017 23:48:31 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 4
+[10-Nov-2017 23:49:48 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 3
+[10-Nov-2017 23:49:49 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 3
+[10-Nov-2017 23:49:53 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 3
+[10-Nov-2017 23:50:42 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 3
+[10-Nov-2017 23:51:11 UTC] PHP Warning:  include(/bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[10-Nov-2017 23:51:11 UTC] PHP Warning:  include(): Failed opening '/bot-trap/bottrap_post.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[10-Nov-2017 23:52:37 UTC] PHP Warning:  include(/bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[10-Nov-2017 23:52:37 UTC] PHP Warning:  include(): Failed opening '/bot-trap/bottrap_post.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[10-Nov-2017 23:53:00 UTC] PHP Warning:  include(/bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[10-Nov-2017 23:53:00 UTC] PHP Warning:  include(): Failed opening '/bot-trap/bottrap_post.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[10-Nov-2017 23:53:19 UTC] PHP Warning:  include(/bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[10-Nov-2017 23:53:19 UTC] PHP Warning:  include(): Failed opening '/bot-trap/bottrap_post.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[10-Nov-2017 23:53:38 UTC] PHP Warning:  include(/bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[10-Nov-2017 23:53:38 UTC] PHP Warning:  include(): Failed opening '/bot-trap/bottrap_post.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[10-Nov-2017 23:54:40 UTC] PHP Warning:  include(/bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[10-Nov-2017 23:54:40 UTC] PHP Warning:  include(): Failed opening '/bot-trap/bottrap_post.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[10-Nov-2017 23:57:43 UTC] PHP Warning:  include(/bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[10-Nov-2017 23:57:43 UTC] PHP Warning:  include(): Failed opening '/bot-trap/bottrap_post.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[10-Nov-2017 23:58:51 UTC] PHP Warning:  include(/bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[10-Nov-2017 23:58:51 UTC] PHP Warning:  include(): Failed opening '/bot-trap/bottrap_post.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[10-Nov-2017 23:59:52 UTC] PHP Warning:  include(/bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[10-Nov-2017 23:59:52 UTC] PHP Warning:  include(): Failed opening '/bot-trap/bottrap_post.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:00:45 UTC] PHP Warning:  include(/bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:00:45 UTC] PHP Warning:  include(): Failed opening '/bot-trap/bottrap_post.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:03:27 UTC] PHP Warning:  include(/bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:03:27 UTC] PHP Warning:  include(): Failed opening '/bot-trap/bottrap_post.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:04:49 UTC] PHP Warning:  include(/bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:04:49 UTC] PHP Warning:  include(): Failed opening '/bot-trap/bottrap_post.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:05:53 UTC] PHP Warning:  include(/bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:05:53 UTC] PHP Warning:  include(): Failed opening '/bot-trap/bottrap_post.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:06:34 UTC] PHP Warning:  include(/bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:06:34 UTC] PHP Warning:  include(): Failed opening '/bot-trap/bottrap_post.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:07:14 UTC] PHP Warning:  include(/bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:07:14 UTC] PHP Warning:  include(): Failed opening '/bot-trap/bottrap_post.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:08:30 UTC] PHP Warning:  include(/bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:08:30 UTC] PHP Warning:  include(): Failed opening '/bot-trap/bottrap_post.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:08:34 UTC] PHP Warning:  include(/bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:08:34 UTC] PHP Warning:  include(): Failed opening '/bot-trap/bottrap_post.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:08:39 UTC] PHP Warning:  include(/bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:08:39 UTC] PHP Warning:  include(): Failed opening '/bot-trap/bottrap_post.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:09:56 UTC] PHP Warning:  include(/bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:09:56 UTC] PHP Warning:  include(): Failed opening '/bot-trap/bottrap_post.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:10:48 UTC] PHP Warning:  include(/bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:10:48 UTC] PHP Warning:  include(): Failed opening '/bot-trap/bottrap_post.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:11:33 UTC] PHP Warning:  include(/bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:11:33 UTC] PHP Warning:  include(): Failed opening '/bot-trap/bottrap_post.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:13:30 UTC] PHP Warning:  include(/bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:13:30 UTC] PHP Warning:  include(): Failed opening '/bot-trap/bottrap_post.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:15:43 UTC] PHP Warning:  include(/bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:15:43 UTC] PHP Warning:  include(): Failed opening '/bot-trap/bottrap_post.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:16:57 UTC] PHP Warning:  include(/bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:16:57 UTC] PHP Warning:  include(): Failed opening '/bot-trap/bottrap_post.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:17:29 UTC] PHP Warning:  include(/bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:17:29 UTC] PHP Warning:  include(): Failed opening '/bot-trap/bottrap_post.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:20:31 UTC] PHP Warning:  include(/bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:20:31 UTC] PHP Warning:  include(): Failed opening '/bot-trap/bottrap_post.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:21:49 UTC] PHP Warning:  include(/bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:21:49 UTC] PHP Warning:  include(): Failed opening '/bot-trap/bottrap_post.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:23:03 UTC] PHP Warning:  include(/bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:23:03 UTC] PHP Warning:  include(): Failed opening '/bot-trap/bottrap_post.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:23:23 UTC] PHP Warning:  include(/bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:23:23 UTC] PHP Warning:  include(): Failed opening '/bot-trap/bottrap_post.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:23:37 UTC] PHP Warning:  include(/bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:23:37 UTC] PHP Warning:  include(): Failed opening '/bot-trap/bottrap_post.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:24:06 UTC] PHP Warning:  include(bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:24:06 UTC] PHP Warning:  include(bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:24:06 UTC] PHP Warning:  include(): Failed opening 'bot-trap/bottrap_post.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:24:19 UTC] PHP Warning:  include(bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:24:19 UTC] PHP Warning:  include(bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:24:19 UTC] PHP Warning:  include(): Failed opening 'bot-trap/bottrap_post.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:30:07 UTC] PHP Notice:  Undefined index: digit in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 24
+[11-Nov-2017 00:30:14 UTC] PHP Notice:  Undefined index: digit in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 24
+[11-Nov-2017 00:31:58 UTC] PHP Notice:  Undefined index: digit in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 24
+[11-Nov-2017 00:37:40 UTC] PHP Notice:  Undefined index: digit in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 24
+[11-Nov-2017 00:38:39 UTC] PHP Notice:  Undefined index: digit in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 24
+[11-Nov-2017 00:44:10 UTC] PHP Notice:  Undefined index: digit in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 22
+[11-Nov-2017 00:45:00 UTC] PHP Notice:  Undefined index: digit in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 21
+[11-Nov-2017 00:45:51 UTC] PHP Notice:  Undefined index: digit in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 21
+[11-Nov-2017 00:46:59 UTC] PHP Notice:  Undefined index: digit in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 23
+[11-Nov-2017 00:47:50 UTC] PHP Warning:  include(bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:47:50 UTC] PHP Warning:  include(bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:47:50 UTC] PHP Warning:  include(): Failed opening 'bot-trap/bottrap_post.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:48:45 UTC] PHP Warning:  include(bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:48:45 UTC] PHP Warning:  include(bot-trap/bottrap_post.php): failed to open stream: No such file or directory in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:48:45 UTC] PHP Warning:  include(): Failed opening 'bot-trap/bottrap_post.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 2
+[11-Nov-2017 00:49:42 UTC] PHP Notice:  Undefined index: digit in /home/kaotick/public_html/bot-trap/bottrap_post.php on line 44
+[11-Nov-2017 00:50:16 UTC] PHP Notice:  Undefined index: digit in /home/kaotick/public_html/bot-trap/bottrap_post.php on line 44
+[11-Nov-2017 00:50:33 UTC] PHP Notice:  Undefined index: digit in /home/kaotick/public_html/bot-trap/bottrap_post.php on line 44
+[11-Nov-2017 00:55:49 UTC] PHP Notice:  Undefined index: digit in /home/kaotick/public_html/bot-trap/bottrap_post.php on line 44
+[13-Nov-2017 03:38:19 UTC] PHP Notice:  Undefined index: puzzle in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 11
+[13-Nov-2017 03:38:19 UTC] PHP Notice:  Undefined index: digit in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 11
+[13-Nov-2017 03:38:45 UTC] PHP Notice:  Undefined index: puzzle in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 11
+[13-Nov-2017 03:40:10 UTC] PHP Notice:  Undefined index: digit in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 23
+[13-Nov-2017 03:42:55 UTC] PHP Notice:  Undefined index: digit in /home/kaotick/public_html/bot-trap/not-a-bot.php on line 23

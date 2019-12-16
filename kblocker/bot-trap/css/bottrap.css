@@ -1,0 +1,149 @@
+/*
+###################################################################################
+###################################################################################
+###########																###########
+###########    		     BOTTRAP.CSS Stylesheet for Bot Trap.  			###########
+###########			   by KDG Web Design / Kaos August 2, 2016	    	###########
+###########              KDG BOT-TRAP SPAM PREVENTION SYSTEM			###########
+###########																###########
+###################################################################################
+###################################################################################
+*/
+/* <========== Bot Trap Wrapper Adjust Position here==========> */
+/*  In most cases, simply changing the justfy-content: setting will be all that is needed. */
+
+@font-face {
+    font-family: army;
+    src: url('/fonts/ARMY RUST.ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.army { 
+	font-family: army;
+	color:#556b2f;
+	text-shadow:4px 4px 2px #000;
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+/* <===== Hide Honeypot From HUman Visitors =====> */
+
+.hyde {
+    display:none!important;
+}
+
+/* <====== Button Styling ======> */
+
+.puzzle-group button {
+	width: 90px;
+	/* Background color and gradients */	
+	background: rgb(2,114,167);
+	background: -moz-linear-gradient(top, rgba(2,114,167,1) 0%, rgba(2,50,73,1) 100%); 
+	background: -webkit-linear-gradient(top, rgba(2,114,167,1) 0%,rgba(2,50,73,1) 100%);
+	background: linear-gradient(to bottom, rgba(2,114,167,1) 0%,rgba(2,50,73,1) 100%); 
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0272a7', endColorstr='#023249',GradientType=0 );
+	color:#fbcb49;	
+	padding:2px 4px 2px 4px;
+	margin:4px auto 4px auto;
+	text-align:center;
+	/* Borders */
+	border: 1px inset #fff;
+	border-radius:20px;
+	height: 30px;
+}
+
+.puzzle-group button:hover {
+	/* Background color and gradients */
+	background: rgb(30,87,153);
+	background: -moz-linear-gradient(top, rgba(30,87,153,1) 0%, rgba(41,137,216,1) 50%, rgba(32,124,202,1) 51%, rgba(125,185,232,1) 100%);
+	background: -webkit-linear-gradient(top, rgba(30,87,153,1) 0%,rgba(41,137,216,1) 50%,rgba(32,124,202,1) 51%,rgba(125,185,232,1) 100%);
+	background: linear-gradient(to bottom, rgba(30,87,153,1) 0%,rgba(41,137,216,1) 50%,rgba(32,124,202,1) 51%,rgba(125,185,232,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#7db9e8',GradientType=0 );
+	color:#fff;
+	text-align:center;	
+	/* Borders */
+	border: 1px solid #ccc;	
+	border-radius:20px;
+	-moz-box-shadow:outset 2px 2px 4px #fff;
+	-webkit-box-shadow:outset 2px 2px 4px #fff;
+	box-shadow:outset 2px 2px 4px #fff;	
+}
+
+
+.puzzle-group button:active {
+	/* Background color and gradients */
+	background: rgb(2,50,73); 
+	background: -moz-linear-gradient(top, rgba(2,50,73,1) 0%, rgba(4,22,73,1) 100%); 
+	background: -webkit-linear-gradient(top, rgba(2,50,73,1) 0%,rgba(4,22,73,1) 100%);
+	background: linear-gradient(to bottom, rgba(2,50,73,1) 0%,rgba(4,22,73,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#023249', endColorstr='#041649',GradientType=0 );
+	color:#e2ea0d;
+	text-align:center;	
+	/* Borders */
+	border: 1px solid #ccc;	
+	border-radius:20px;
+}
+
+.puzzle_box {
+    width:200px;
+    height:30px;
+    text-align:center;
+    border-radius:15px;
+    vertical-align:middle;
+	-webkit-box-shadow: inset 10px 10px 5px -8px rgba(0,0,0,0.75);
+	-moz-box-shadow: inset 10px 10px 5px -8px rgba(0,0,0,0.75);
+	box-shadow: inset 10px 10px 5px -8px rgba(0,0,0,0.75);
+}
+
+.puzzle_wrap {
+text-align:center;
+}
+
+.puzzle_wrap img {
+    float:left;
+    margin-left:10px;
+    margin-bottom:10px;
+    display:inline-block;
+	overflow:hidden;
+}
+
+.puzzle-group {
+	width:14em;
+    text-align:center;
+    font-size:1.8em;
+    padding:20px;
+    background: -moz-linear-gradient(top, rgba(30,87,153,0) 0%, rgba(30,87,153,0.8) 15%, rgba(30,87,153,1) 19%, rgba(30,87,153,1) 20%, rgba(41,137,216,1) 50%, rgba(30,87,153,1) 80%, rgba(30,87,153,1) 81%, rgba(30,87,153,0.8) 85%, rgba(30,87,153,0) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, rgba(30,87,153,0) 0%,rgba(30,87,153,0.8) 15%,rgba(30,87,153,1) 19%,rgba(30,87,153,1) 20%,rgba(41,137,216,1) 50%,rgba(30,87,153,1) 80%,rgba(30,87,153,1) 81%,rgba(30,87,153,0.8) 85%,rgba(30,87,153,0) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, rgba(30,87,153,0) 0%,rgba(30,87,153,0.8) 15%,rgba(30,87,153,1) 19%,rgba(30,87,153,1) 20%,rgba(41,137,216,1) 50%,rgba(30,87,153,1) 80%,rgba(30,87,153,1) 81%,rgba(30,87,153,0.8) 85%,rgba(30,87,153,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#001e5799', endColorstr='#001e5799',GradientType=0 ); /* IE6-9 */
+	-webkit-box-shadow: 0px 0px 2px 0px rgba(250,237,250,1);
+	-moz-box-shadow: 0px 0px 2px 0px rgba(250,237,250,1);
+	box-shadow: 0px 0px 2px 0px rgba(250,237,250,1);
+	border-radius:10px;
+}
+
+.puzzle em {
+    font-style:none!important;
+    font-size:.2em!important;"
+}
+
+.puzzle_error {
+    width:100px;
+    border-radius:15px;
+    margin:10px 0px 10px 10px;
+    text-align:center;
+    vertical-align:middle;
+    -webkit-box-shadow: inset 10px 10px 5px -8px rgba(0,0,0,0.75);
+    -moz-box-shadow: inset 10px 10px 5px -8px rgba(0,0,0,0.75);
+    box-shadow: inset 10px 10px 5px -8px rgba(0,0,0,0.75);
+
+}

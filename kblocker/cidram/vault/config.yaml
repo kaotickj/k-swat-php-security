@@ -1,0 +1,328 @@
+Config Defaults:
+ general:
+  logfile:
+   type: string
+   default: ""
+  logfileApache:
+   type: string
+   default: ""
+  logfileSerialized:
+   type: string
+   default: ""
+  truncate:
+   type: kb
+   default: "0KB"
+   preview: kb
+  log_rotation_limit:
+   type: int
+   default: 0
+  log_rotation_action:
+   type: string
+   default: "Delete"
+   choices:
+    Delete: Delete
+    Archive: Archive
+  timezone:
+   type: timezone
+   default: "SYSTEM"
+  timeOffset:
+   type: int
+   default: 0
+   preview: minutes
+  timeFormat:
+   type: string
+   default: "{Day}, {dd} {Mon} {yyyy} {hh}:{ii}:{ss} {tz}"
+   choices:
+    "{Day}, {dd} {Mon} {yyyy} {hh}:{ii}:{ss} {tz}": "{Day}, {dd} {Mon} {yyyy} {hh}:{ii}:{ss} {tz}"
+    "{Day}, {dd} {Mon} {yyyy} {hh}:{ii}:{ss}": "{Day}, {dd} {Mon} {yyyy} {hh}:{ii}:{ss}"
+    "{Day}, {dd} {Mon} {yyyy}": "{Day}, {dd} {Mon} {yyyy}"
+    "{yyyy}.{mm}.{dd} {hh}:{ii}:{ss} {tz}": "{yyyy}.{mm}.{dd} {hh}:{ii}:{ss} {tz}"
+    "{yyyy}.{mm}.{dd} {hh}:{ii}:{ss}": "{yyyy}.{mm}.{dd} {hh}:{ii}:{ss}"
+    "{yyyy}.{mm}.{dd}": "{yyyy}.{mm}.{dd}"
+    "{yyyy}-{mm}-{dd} {hh}:{ii}:{ss} {tz}": "{yyyy}-{mm}-{dd} {hh}:{ii}:{ss} {tz}"
+    "{yyyy}-{mm}-{dd} {hh}:{ii}:{ss}": "{yyyy}-{mm}-{dd} {hh}:{ii}:{ss}"
+    "{yyyy}-{mm}-{dd}": "{yyyy}-{mm}-{dd}"
+    "{yyyy}/{mm}/{dd} {hh}:{ii}:{ss} {tz}": "{yyyy}/{mm}/{dd} {hh}:{ii}:{ss} {tz}"
+    "{yyyy}/{mm}/{dd} {hh}:{ii}:{ss}": "{yyyy}/{mm}/{dd} {hh}:{ii}:{ss}"
+    "{yyyy}/{mm}/{dd}": "{yyyy}/{mm}/{dd}"
+    "{dd}.{mm}.{yyyy} {hh}:{ii}:{ss} {tz}": "{dd}.{mm}.{yyyy} {hh}:{ii}:{ss} {tz}"
+    "{dd}.{mm}.{yyyy} {hh}:{ii}:{ss}": "{dd}.{mm}.{yyyy} {hh}:{ii}:{ss}"
+    "{dd}.{mm}.{yyyy}": "{dd}.{mm}.{yyyy}"
+    "{dd}-{mm}-{yyyy} {hh}:{ii}:{ss} {tz}": "{dd}-{mm}-{yyyy} {hh}:{ii}:{ss} {tz}"
+    "{dd}-{mm}-{yyyy} {hh}:{ii}:{ss}": "{dd}-{mm}-{yyyy} {hh}:{ii}:{ss}"
+    "{dd}-{mm}-{yyyy}": "{dd}-{mm}-{yyyy}"
+    "{dd}/{mm}/{yyyy} {hh}:{ii}:{ss} {tz}": "{dd}/{mm}/{yyyy} {hh}:{ii}:{ss} {tz}"
+    "{dd}/{mm}/{yyyy} {hh}:{ii}:{ss}": "{dd}/{mm}/{yyyy} {hh}:{ii}:{ss}"
+    "{dd}/{mm}/{yyyy}": "{dd}/{mm}/{yyyy}"
+    "{mm}.{dd}.{yyyy} {hh}:{ii}:{ss} {tz}": "{mm}.{dd}.{yyyy} {hh}:{ii}:{ss} {tz}"
+    "{mm}.{dd}.{yyyy} {hh}:{ii}:{ss}": "{mm}.{dd}.{yyyy} {hh}:{ii}:{ss}"
+    "{mm}.{dd}.{yyyy}": "{mm}.{dd}.{yyyy}"
+    "{mm}-{dd}-{yyyy} {hh}:{ii}:{ss} {tz}": "{mm}-{dd}-{yyyy} {hh}:{ii}:{ss} {tz}"
+    "{mm}-{dd}-{yyyy} {hh}:{ii}:{ss}": "{mm}-{dd}-{yyyy} {hh}:{ii}:{ss}"
+    "{mm}-{dd}-{yyyy}": "{mm}-{dd}-{yyyy}"
+    "{mm}/{dd}/{yyyy} {hh}:{ii}:{ss} {tz}": "{mm}/{dd}/{yyyy} {hh}:{ii}:{ss} {tz}"
+    "{mm}/{dd}/{yyyy} {hh}:{ii}:{ss}": "{mm}/{dd}/{yyyy} {hh}:{ii}:{ss}"
+    "{mm}/{dd}/{yyyy}": "{mm}/{dd}/{yyyy}"
+    "{yy}.{mm}.{dd} {hh}:{ii}:{ss} {tz}": "{yy}.{mm}.{dd} {hh}:{ii}:{ss} {tz}"
+    "{yy}.{mm}.{dd} {hh}:{ii}:{ss}": "{yy}.{mm}.{dd} {hh}:{ii}:{ss}"
+    "{yy}.{mm}.{dd}": "{yy}.{mm}.{dd}"
+    "{yy}-{mm}-{dd} {hh}:{ii}:{ss} {tz}": "{yy}-{mm}-{dd} {hh}:{ii}:{ss} {tz}"
+    "{yy}-{mm}-{dd} {hh}:{ii}:{ss}": "{yy}-{mm}-{dd} {hh}:{ii}:{ss}"
+    "{yy}-{mm}-{dd}": "{yy}-{mm}-{dd}"
+    "{yy}/{mm}/{dd} {hh}:{ii}:{ss} {tz}": "{yy}/{mm}/{dd} {hh}:{ii}:{ss} {tz}"
+    "{yy}/{mm}/{dd} {hh}:{ii}:{ss}": "{yy}/{mm}/{dd} {hh}:{ii}:{ss}"
+    "{yy}/{mm}/{dd}": "{yy}/{mm}/{dd}"
+    "{dd}.{mm}.{yy} {hh}:{ii}:{ss} {tz}": "{dd}.{mm}.{yy} {hh}:{ii}:{ss} {tz}"
+    "{dd}.{mm}.{yy} {hh}:{ii}:{ss}": "{dd}.{mm}.{yy} {hh}:{ii}:{ss}"
+    "{dd}.{mm}.{yy}": "{dd}.{mm}.{yy}"
+    "{dd}-{mm}-{yy} {hh}:{ii}:{ss} {tz}": "{dd}-{mm}-{yy} {hh}:{ii}:{ss} {tz}"
+    "{dd}-{mm}-{yy} {hh}:{ii}:{ss}": "{dd}-{mm}-{yy} {hh}:{ii}:{ss}"
+    "{dd}-{mm}-{yy}": "{dd}-{mm}-{yy}"
+    "{dd}/{mm}/{yy} {hh}:{ii}:{ss} {tz}": "{dd}/{mm}/{yy} {hh}:{ii}:{ss} {tz}"
+    "{dd}/{mm}/{yy} {hh}:{ii}:{ss}": "{dd}/{mm}/{yy} {hh}:{ii}:{ss}"
+    "{dd}/{mm}/{yy}": "{dd}/{mm}/{yy}"
+    "{mm}.{dd}.{yy} {hh}:{ii}:{ss} {tz}": "{mm}.{dd}.{yy} {hh}:{ii}:{ss} {tz}"
+    "{mm}.{dd}.{yy} {hh}:{ii}:{ss}": "{mm}.{dd}.{yy} {hh}:{ii}:{ss}"
+    "{mm}.{dd}.{yy}": "{mm}.{dd}.{yy}"
+    "{mm}-{dd}-{yy} {hh}:{ii}:{ss} {tz}": "{mm}-{dd}-{yy} {hh}:{ii}:{ss} {tz}"
+    "{mm}-{dd}-{yy} {hh}:{ii}:{ss}": "{mm}-{dd}-{yy} {hh}:{ii}:{ss}"
+    "{mm}-{dd}-{yy}": "{mm}-{dd}-{yy}"
+    "{mm}/{dd}/{yy} {hh}:{ii}:{ss} {tz}": "{mm}/{dd}/{yy} {hh}:{ii}:{ss} {tz}"
+    "{mm}/{dd}/{yy} {hh}:{ii}:{ss}": "{mm}/{dd}/{yy} {hh}:{ii}:{ss}"
+    "{mm}/{dd}/{yy}": "{mm}/{dd}/{yy}"
+    "{yyyy}年{m}月{d}日 {hh}時{ii}分{ss}秒": "{yyyy}年{m}月{d}日 {hh}時{ii}分{ss}秒"
+    "{yyyy}年{m}月{d}日 {hh}:{ii}:{ss} {tz}": "{yyyy}年{m}月{d}日 {hh}:{ii}:{ss} {tz}"
+    "{yyyy}年{m}月{d}日": "{yyyy}年{m}月{d}日"
+    "{yy}年{m}月{d}日 {hh}時{ii}分{ss}秒": "{yy}年{m}月{d}日 {hh}時{ii}分{ss}秒"
+    "{yy}年{m}月{d}日 {hh}:{ii}:{ss} {tz}": "{yy}年{m}月{d}日 {hh}:{ii}:{ss} {tz}"
+    "{yy}年{m}月{d}日": "{yy}年{m}月{d}日"
+    "{yyyy}년 {m}월 {d}일 {hh}시 {ii}분 {ss}초": "{yyyy}년 {m}월 {d}일 {hh}시 {ii}분 {ss}초"
+    "{yyyy}년 {m}월 {d}일 {hh}:{ii}:{ss} {tz}": "{yyyy}년 {m}월 {d}일 {hh}:{ii}:{ss} {tz}"
+    "{yyyy}년 {m}월 {d}일": "{yyyy}년 {m}월 {d}일"
+    "{yy}년 {m}월 {d}일 {hh}시 {ii}분 {ss}초": "{yy}년 {m}월 {d}일 {hh}시 {ii}분 {ss}초"
+    "{yy}년 {m}월 {d}일 {hh}:{ii}:{ss} {tz}": "{yy}년 {m}월 {d}일 {hh}:{ii}:{ss} {tz}"
+    "{yy}년 {m}월 {d}일": "{yy}년 {m}월 {d}일"
+    "{yyyy}-{mm}-{dd}T{hh}:{ii}:{ss}{t:z}": "{yyyy}-{mm}-{dd}T{hh}:{ii}:{ss}{t:z}"
+    "{d}. {m}. {yyyy}": "{d}. {m}. {yyyy}"
+  ipaddr:
+   type: string
+   default: "REMOTE_ADDR"
+  forbid_on_block:
+   type: int
+   default: 200
+   choices:
+    200: 200 OK
+    403: 403 Forbidden
+    503: 503 Service Unavailable
+  silent_mode:
+   type: string
+   default: ""
+  lang:
+   type: string
+   default: "en"
+   choices:
+    en: English
+    ar: العربية
+    bn: বাংলা
+    de: Deutsch
+    es: Español
+    fr: Français
+    hi: हिंदी
+    id: Bahasa Indonesia
+    it: Italiano
+    ja: 日本語
+    ko: 한국어
+    nl: Nederlandse
+    no: Norsk
+    pl: Polski
+    pt: Português
+    ru: Русский
+    sv: Svenska
+    ta: தமிழ்
+    th: ภาษาไทย
+    tr: Türkçe
+    ur: ‏اردو‏
+    vi: Tiếng Việt
+    zh: 中文（简体）
+    zh-tw: 中文（傳統）
+   choice_filter: "FilterLang"
+  numbers:
+   type: string
+   default: "Latin-1"
+   choices:
+    NoSep-1: "1234567.89"
+    NoSep-2: "1234567,89"
+    Latin-1: "1,234,567.89"
+    Latin-2: "1 234 567.89"
+    Latin-3: "1.234.567,89"
+    Latin-4: "1 234 567,89"
+    Latin-5: "1,234,567·89"
+    China-1: "123,4567.89"
+    India-1: "12,34,567.89"
+    India-2: "१२,३४,५६७.८९"
+    Bengali-1: "১২,৩৪,৫৬৭.৮৯"
+    Arabic-1: "١٢٣٤٥٦٧٫٨٩"
+    Arabic-2: "١٬٢٣٤٬٥٦٧٫٨٩"
+    Thai-1: "๑,๒๓๔,๕๖๗.๘๙"
+  emailaddr:
+   type: string
+   default: ""
+  emailaddr_display_style:
+   type: string
+   default: default
+   choices:
+    default: {field_clickable_link}
+    noclick: {field_nonclickable_text}
+  disable_cli:
+   type: bool
+   default: false
+  disable_frontend:
+   type: bool
+   default: true
+  max_login_attempts:
+   type: int
+   default: 5
+  FrontEndLog:
+   type: string
+   default: ""
+  ban_override:
+   type: int
+   default: 200
+   choices:
+    200: 200
+    403: 403
+    503: 503
+  log_banned_ips:
+   type: bool
+   default: true
+  default_dns:
+   type: string
+   default: "8.8.8.8,8.8.4.4"
+  search_engine_verification:
+   type: bool
+   default: true
+  protect_frontend:
+   type: bool
+   default: true
+  disable_webfonts:
+   type: bool
+   default: false
+  maintenance_mode:
+   type: bool
+   default: false
+  default_algo:
+   type: string
+   default: "PASSWORD_DEFAULT"
+   choices:
+    PASSWORD_DEFAULT: PASSWORD_DEFAULT
+    PASSWORD_BCRYPT: PASSWORD_BCRYPT
+    PASSWORD_ARGON2I: PASSWORD_ARGON2I (PHP >= 7.2.0)
+   choice_filter: "FilterAlgo"
+  statistics:
+   type: bool
+   default: false
+  force_hostname_lookup:
+   type: bool
+   default: false
+  allow_gethostbyaddr_lookup:
+   type: bool
+   default: true
+  hide_version:
+   type: bool
+   default: false
+ signatures:
+  ipv4:
+   type: string
+   default: "ipv4.dat,ipv4_bogons.dat,ipv4_custom.dat,ipv4_isps.dat,ipv4_other.dat"
+  ipv6:
+   type: string
+   default: "ipv6.dat,ipv6_bogons.dat,ipv6_custom.dat,ipv6_isps.dat,ipv6_other.dat"
+  block_cloud:
+   type: bool
+   default: true
+  block_bogons:
+   type: bool
+   default: false
+  block_generic:
+   type: bool
+   default: true
+  block_legal:
+   type: bool
+   default: true
+  block_malware:
+   type: bool
+   default: true
+  block_proxies:
+   type: bool
+   default: false
+  block_spam:
+   type: bool
+   default: true
+  modules:
+   type: string
+   default: ""
+  default_tracktime:
+   type: int
+   default: 604800
+   preview: seconds
+  infraction_limit:
+   type: int
+   default: 10
+  track_mode:
+   type: bool
+   default: false
+ recaptcha:
+  usemode:
+   type: int
+   default: 0
+  lockip:
+   type: bool
+   default: false
+  lockuser:
+   type: bool
+   default: true
+  sitekey:
+   type: string
+   default: ""
+  secret:
+   type: string
+   default: ""
+  expiry:
+   type: real
+   step: any
+   default: 720
+   preview: hours
+  logfile:
+   type: string
+   default: ""
+  signature_limit:
+   type: int
+   default: 1
+  api:
+   type: string
+   default: "V2"
+   choices:
+    V2: "V2"
+    Invisible: "Invisible"
+ template_data:
+  theme:
+   type: string
+   default: "default"
+   choices:
+    default: "Default"
+    rbi: "Red-Blue Inverted"
+    slate: "Slate"
+    bluemetal: "Blue Metal"
+    moss: "Moss"
+    fullmoon: "Full Moon"
+    unicorn: "Unicorn"
+    obscured: "Obscured"
+   choice_filter: "FilterTheme"
+  Magnification:
+   type: real
+   step: any
+   default: 1
+  css_url:
+   type: string
+   default: ""
+
