@@ -1,5 +1,6 @@
 <?php 
-die('WHAT THE FUCK?');
+include 'kblocker/cidram/loader.php';
+
 /*	require 'conny.php';
 		$conn = new mysqli($servername, $username, $password);
 		if ($conn->connect_error) {
