@@ -431,7 +431,7 @@ $ax += lmatch($address,'54.37.104.38','Source previously caught probing for admi
 $ax += regexmatch($requesturi,"license.txt",'Joomla exploit probe. <h2>NOT JOOMLA YOU PLEB.</h2><p class="auto-type"> GTFO with that shit.</p> (IB-JOOMLA-DEFAULT-FILE-LICENSE-PROBE). INSTA-BAN (CMD-10). ');
 $ax += regexmatch($requesturi,"readme.txt",'Joomla exploit probe. <h2>NOT JOOMLA YOU PLEB.</h2><p class="auto-type"> GTFO with that shit.</p> (IB-JOOMLA-DEFAULT-FILE-README-PROBE). INSTA-BAN (CMD-10). ');
 $ax += regexmatch($requesturi,"robots.txt.dist",'Joomla exploit probe. <h2>NOT JOOMLA YOU PLEB.</h2><p class="auto-type"> GTFO with that shit.</p> (IB-JOOMLA-DEFAULT-FILE-ROBOTS-PROBE). INSTA-BAN (CMD-10). ');
-$ax += regexmatch($requesturi,"config",'Joomla exploit probe. <h2>NOT JOOMLA YOU PLEB.</h2><p class="auto-type"> GTFO with that shit.</p> (IB-JOOMLA-DEFAULT-FILE-WEBCONFIG-PROBE). INSTA-BAN (CMD-10). ');
+//$ax += regexmatch($requesturi,"config",'Joomla exploit probe. <h2>NOT JOOMLA YOU PLEB.</h2><p class="auto-type"> GTFO with that shit.</p> (IB-JOOMLA-DEFAULT-FILE-WEBCONFIG-PROBE). INSTA-BAN (CMD-10). ');
 $ax += regexmatch($requesturi,"htaccess.txt",'Joomla exploit probe. <h2>NOT JOOMLA YOU PLEB.</h2><p class="auto-type"> GTFO with that shit.</p> (IB-JOOMLA-DEFAULT-FILE-HTACCESS-PROBE). INSTA-BAN (CMD-10). ');
 
 // SUBNET LABS
