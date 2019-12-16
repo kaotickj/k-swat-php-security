@@ -2,6 +2,7 @@
 if (file_exists('../makeHtaccess.php')) {
     unlink('../makeHtaccess.php');
 }
+unlink('/index.html');
 echo '
 <!doctype html>
 <html lang="en">
