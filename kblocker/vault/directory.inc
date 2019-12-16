@@ -1,1 +1,1 @@
-<?php global $path_to_zbblock; $path_to_zbblock="../kblocker/"; ?>
+<?php global $path_to_zbblock; $path_to_zbblock="/kblocker/"; ?>
