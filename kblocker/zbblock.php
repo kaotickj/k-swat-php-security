@@ -1036,7 +1036,7 @@ echo('<aside><h3>If you feel that you have been blocked in error, you may open a
 Click <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;' . $dummy . '">HERE</a> to submit an appeal ticket.</h3></aside><br>
 ');
 }
-echo '</article><footer><strong>Zapped by KSwatter&reg; V 1.4.88  </strong></footer></section></body></html>';
+echo '</article><footer><strong>Zapped by K S.W.A.T. V 1.4.88  </strong></footer></section></body></html>';
 
 
 // Finally, POP the php script's execution.
