@@ -3,7 +3,7 @@ if (!file_exists('kblocker/vault/counter.dat')) {
     $file = 'kblocker/vault/counter.dat';
     $content = '0';
         file_put_contents($file, $content. "\n", FILE_APPEND | LOCK_EX);
-}
+} else {
     $file = '.htaccess';
     $content = file_get_contents('htaccess.txt');
 
@@ -15,6 +15,6 @@ if (!file_exists('kblocker/vault/counter.dat')) {
     $kill = $dir.'htaccess.txt';
         file_put_contents($file2, $content. "\n", FILE_APPEND | LOCK_EX);
         unlink ($kill);
-
+}
 ?>
  <meta http-equiv = "refresh" content = "0; url = /kblocker/control/" />
