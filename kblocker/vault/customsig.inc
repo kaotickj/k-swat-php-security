@@ -1,4 +1,5 @@
 <?php
+die('WTF?');
 // ***CUSTOM SIGNATURE FILE
 
 // *php 5 fix
