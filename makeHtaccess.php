@@ -14,6 +14,9 @@ if (!file_exists('kblocker/vault/counter.dat')) {
     $file2 = $dir.$file;
     $kill = $dir.'htaccess.txt';
         file_put_contents($file2, $content. "\n", FILE_APPEND | LOCK_EX);
+		$content = '';
+		$kill = '';
+		$file = '';
         unlink ($kill);
 }
 ?>
