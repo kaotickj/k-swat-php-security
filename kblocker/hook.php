@@ -1,1 +1,1 @@
-<?php require('/kblocker/zbblock.php'); ?>
+<?php require('kblocker/zbblock.php'); ?>
