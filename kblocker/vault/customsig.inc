@@ -426,7 +426,7 @@ $ax += lmatch($address,'54.37.104.38','Source previously caught probing for admi
 // Joomla Administrator Exploit Probe
 // Kaos
 // 10/30/2017
-$ax += regexmatch($requesturi,"administrator",'Joomla exploit probe. <h2>NOT JOOMLA YOU PLEB.</h2><p class="auto-type"> GTFO with that shit.</p> (IB-JOOMLA-ADMIN-PROBE). INSTA-BAN (CMD-10). ');
+//$ax += regexmatch($requesturi,"administrator",'Joomla exploit probe. <h2>NOT JOOMLA YOU PLEB.</h2><p class="auto-type"> GTFO with that shit.</p> (IB-JOOMLA-ADMIN-PROBE). INSTA-BAN (CMD-10). ');
 //$ax += regexmatch($requesturi,"joomla",'Joomla exploit probe. <h2>NOT JOOMLA YOU PLEB.</h2><p class="auto-type"> GTFO with that shit.</p> (IB-JOOMLA-DEFAULT-FILE-JOOMLA-PROBE). INSTA-BAN (CMD-10). ');
 $ax += regexmatch($requesturi,"license.txt",'Joomla exploit probe. <h2>NOT JOOMLA YOU PLEB.</h2><p class="auto-type"> GTFO with that shit.</p> (IB-JOOMLA-DEFAULT-FILE-LICENSE-PROBE). INSTA-BAN (CMD-10). ');
 $ax += regexmatch($requesturi,"readme.txt",'Joomla exploit probe. <h2>NOT JOOMLA YOU PLEB.</h2><p class="auto-type"> GTFO with that shit.</p> (IB-JOOMLA-DEFAULT-FILE-README-PROBE). INSTA-BAN (CMD-10). ');
