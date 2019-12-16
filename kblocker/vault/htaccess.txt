@@ -3,4 +3,4 @@
 	Deny from All
 </Files>
 order deny,allow
-deny from all 
+deny from all
