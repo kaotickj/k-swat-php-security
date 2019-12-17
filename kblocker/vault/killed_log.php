@@ -12,7 +12,7 @@
 	}
 </style>
 <div class="surround">
-<h3>Thanks for Using the Bot Traptcha Kblocker Module v. 1.4.88(final)</h3>
+<h3>Thanks for Using the K S.W.A.T. PHP Security Module v. 1.4.88(final)</h3>
 <em>GOLLUMBOT:</em>
 <blockquote>"WE WANTS IT, WE NEEDS IT, MUST HAVE THE PRECIOUS... "<br>
 [GOLLUMBOT SNARLS IN FRUSTRATION]</blockquote><em>SMEAGOL:</em>
@@ -27,7 +27,7 @@
 <h2>(SMEAGOL-BLOCKED)</h2>
 <h3>"GOLLUMBOT IS NOT AUTHORIZED ON THIS SERVER!"</h3>
 
-<h4>The following malicious activity has been blocked by Kblocker:</h4> 
+<h4>The following malicious activity has been blocked by K S.W.A.T.:</h4> 
  
 
 </div>
