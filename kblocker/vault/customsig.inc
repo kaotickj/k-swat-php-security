@@ -30,7 +30,7 @@ global $whyblockout, $ax;
 // end Maiku Forks
 
 // *Test Trigger to test function. (Errors will abort processing before here)
-$ax = $ax + (inmatch($query,"kblocktest","Triggered test function. This is a test of the K S.W.A.T. Security system. Had this been a real emergency, you would be banned, and specifics regarding the ban would appear here."));
+$ax = $ax + (inmatch($query,"kblocktest","Triggered test function. This is a test of the K S.W.A.T. Security system. In the event of an actual threat, you would be banned, and specifics regarding the ban would appear here."));
 
 
 // SAFREN
