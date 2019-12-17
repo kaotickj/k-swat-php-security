@@ -42,7 +42,7 @@ ini_set('display_errors',0);
 //ini_set('display_errors',1);
 //error_reporting(-1);
 // Set user-agent $tring
-$zbbuseragent = 'KaosBlocker';
+$zbbuseragent = 'K S.W.A.T.';
 ini_set('user_agent', $zbbuseragent);
 // Prevent error if ZB Block has run before on the page. Wrap program.
 if (!function_exists('inmatch')) {
@@ -969,7 +969,7 @@ aside {
 
 <br><br>
 <h1>Access Blocked!</h1>
-<p>This action has been blocked by KaosBlocker&reg; because the resource or action you requested or the computer or network you are requesting it from is forbidden. While it is extremely unlikely that you arrived at this page through accidental means, if you reached this page in error, no worries.  Simply stick to accessing the content linked through the site&#39;s menu systems and you will have no further trouble. Be aware: repeated offenses will result in a permanent ban from accessing this site and Criminal and/or Civil Prosecution.</p>
+<p>This action has been blocked by K S.W.A.T. because the resource or action you requested or the computer or network you are requesting it from is forbidden. While it is extremely unlikely that you arrived at this page through accidental means, if you reached this page in error, no worries.  Simply stick to accessing the content linked through the site&#39;s menu systems and you will have no further trouble. Be aware: repeated offenses will result in a permanent ban from accessing this site and Criminal and/or Civil Prosecution.</p>
 
 <p>Your action or request was blocked because:<br><br><blockquote><b><strong>' . $whyblockout . '</b></strong></blockquote></p>
 ');
