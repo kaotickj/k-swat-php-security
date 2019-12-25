@@ -1,0 +1,56 @@
+RewriteEngine On
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)/$ /$1 [L,R=301]
+RewriteCond %{QUERY_STRING} base64_encode[^(]*\([^)]*\) [OR]
+RewriteCond %{QUERY_STRING} (<|%3C)([^s]*s)+cript.*(>|%3E) [NC,OR]
+RewriteCond %{QUERY_STRING} GLOBALS(=|\[|\%[0-9A-Z]{0,2}) [OR]
+RewriteCond %{QUERY_STRING} _REQUEST(=|\[|\%[0-9A-Z]{0,2})
+
+Options +FollowSymLinks
+
+## Pages
+#
+RewriteRule    ^pages/([a-z0-9-]+) index.php?page=$1 [NC,L]
+
+## Back End
+#
+RewriteRule    ^admin/?$ /admin/ [NC,L]
+
+## Check for bots and redirect 
+#
+RewriteRule ^robots.txt$ /robots.php  [NC,L]
+
+## Home page:
+DirectoryIndex index.html index.php .index.php 
+
+## Blocks for misc. bad traffic
+RewriteCond %{HTTP_USER_AGENT} (archive.org_bot) [NC]
+RewriteRule .* - [R=403,L]
+RewriteCond %{HTTP_USER_AGENT} (ia_archiver) [NC]
+RewriteRule .* - [R=403,L]
+RewriteCond %{HTTP_USER_AGENT} (libwww) [NC]
+RewriteRule .* - [R=403,L]
+RewriteCond %{HTTP_USER_AGENT} (Python-urllib) [NC]
+RewriteRule .* - [R=403,L]
+RewriteCond %{HTTP_USER_AGENT} (python-requests) [NC]
+RewriteRule .* - [R=403,L]
+RewriteCond %{HTTP_HOST} (horoscopeguild.com) [NC]
+RewriteRule .* - [R=403,L]
+RewriteCond %{HTTP_HOST} (burger-imperia.com) [NC]
+RewriteRule .* - [R=403,L]
+
+## Blocks for Badbots, Bad Refs, and Attempted Hackers
+#
+SetEnvIfNoCase Referer "horoscopeguild.com" bad_referer
+Order Allow,Deny
+Allow from ALL
+Deny from env=bad_referer
+
+
+deny from 67.215.191.0/24    ## WEBHOSTING NETINC
+deny from 207.241.224.0/20 ## Archive.org
+deny from 5.255.192.0/18 ##Yandex
+deny from 93.158.128.0/18  ##Yandex
+deny from 196.184.65.227 ## NO ACCESS FROM TUNISIA 
+deny from 41.138.86.28 ## Manual Block Useless
