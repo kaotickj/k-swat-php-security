@@ -3,7 +3,9 @@ if (!file_exists('kblocker/vault/counter.dat')) {
     $file = 'kblocker/vault/counter.dat';
     $content = '0';
         file_put_contents($file, $content, FILE_APPEND | LOCK_EX);
-} else {
+}
+
+if (!file_exists('kblocker/vault/.htaccess') {
     $dir = 'kblocker/vault/';
     $file = $dir.'.htaccess';
     $kill = $dir.'htaccess.txt';
@@ -14,5 +16,12 @@ if (!file_exists('kblocker/vault/counter.dat')) {
 		$kill = '';
         unlink ('index.html');
 }
-?>
+
+if (!file_exists('.htaccess')) {
+    $file = '.htaccess';
+    $content = file_get_contents('htaccess.txt');
+        file_put_contents($file, $content, FILE_APPEND | LOCK_EX);
+	unlink('htaccess.txt');	
+}?>
+
  <meta http-equiv = "refresh" content = "0; url = /kblocker/control/index.php" />
