@@ -5,7 +5,7 @@ if (!file_exists('kblocker/vault/counter.dat')) {
         file_put_contents($file, $content, FILE_APPEND | LOCK_EX);
 }
 
-if (!file_exists('kblocker/vault/.htaccess') {
+if (!file_exists('kblocker/vault/.htaccess')) {
     $dir = 'kblocker/vault/';
     $file = $dir.'.htaccess';
     $kill = $dir.'htaccess.txt';
