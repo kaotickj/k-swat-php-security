@@ -4,7 +4,7 @@ include 'kblocker/cidram/loader.php';
 /*	require 'conny.php';
 		$conn = new mysqli($servername, $username, $password);
 		if ($conn->connect_error) {
-			die('' . $db_error .'');
+			die($db_error);
 		} 
 		$visitor_ip = $_SERVER['REMOTE_ADDR'];
 		if ($visitor_ip !="0.0.0.0.0.0"){
