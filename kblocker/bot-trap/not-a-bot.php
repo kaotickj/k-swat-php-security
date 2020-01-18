@@ -34,7 +34,7 @@
 			  return $data;
 			}		
 //			die('Popcorn');
-	echo '<meta http-equiv="refresh" content="0; url=https://kdgwebdesign.com/index.php?option=com_content&view=article&id=3&catid=2" />';
+	echo '<meta http-equiv="refresh" content="0; url=/" />';
 			   } else {
 echo '<meta http-equiv="refresh" content="0; url=https://kdgwebdesign.com/not-a-bot/wp-im_a_bot" />';				   
 			   }
