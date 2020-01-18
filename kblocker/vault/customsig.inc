@@ -6,7 +6,7 @@ global $whyblockout, $ax;
 
 // start Includes
 
-@include('/var/www/vhosts/kdgwebdesign.com/httpdocs/kblocker/cidram/vault/includes/zbb_loader.inc'); 
+@include('../cidram/vault/includes/zbb_loader.inc'); 
 
 
 // start cloud and bot includes
