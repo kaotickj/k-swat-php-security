@@ -36,6 +36,10 @@ $ax = $ax + (inmatch($query,"kblocktest","Triggered test function. This is a tes
 // Kaos
 $ax += regexmatch($requesturi,"theplague",'<div style-"margin:0px auto;text-align:center;"><h2 class="auto-type">Quarantined!</h2><p>This website is under emergency quarantine! K.S.W.A.T. PHP Security Suite has placed this website under lockdown pending an investigation into a recent attemted breach.</p><iframe width="560" height="315" src="https://www.youtube.com/embed/b2OYNMO_mNw?autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>');
 
+// Profitvolt
+// Kaos
+$ax += cidrblock($address,'166.128.0.0/9','Profitvolt, a.k.a. Service Provider Corporation is prohibited! INSTA-BAN (CMD-10)  (CIDR-PROFITVOLT-0166)<meta http-equiv="Refresh" content="7; url=https://127.0.0.1" />');
+
 
 
 // SAFREN
