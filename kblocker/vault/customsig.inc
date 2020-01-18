@@ -32,6 +32,11 @@ global $whyblockout, $ax;
 // *Test Trigger to test function. (Errors will abort processing before here)
 $ax = $ax + (inmatch($query,"kblocktest","Triggered test function. This is a test of the K S.W.A.T. Security system. In the event of an actual threat, you would be banned, and specifics regarding the ban would appear here."));
 
+// Quarantined
+// Kaos
+$ax += regexmatch($requesturi,"theplague",'<div style-"margin:0px auto;text-align:center;"><h2 class="auto-type">Quarantined!</h2><p>This website is under emergency quarantine! K.S.W.A.T. PHP Security Suite has placed this website under lockdown pending an investigation into a recent attemted breach.</p><iframe width="560" height="315" src="https://www.youtube.com/embed/b2OYNMO_mNw?autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>');
+
+
 
 // SAFREN
 // Kaos
@@ -151,8 +156,8 @@ $ax += cidrblock($address,'208.74.228.0/22','ITS Network Services, aka Country F
 // YELP
 // Kaos
 // 6/1/2018
-$ax += inmatch($fromhost,'yelp','As an entity which has been specifically and expressly prohibited from accessing content on this server, Yelp&#39;s linking to this website as well as their directory listing of this business and it&#39;s protected domains, email addresses and phone numbers are in violation of the Website Terms of Use at https://legal.kdgwebdesign.com/tos.php  If you are a user referred here by Yelp, please <a href="https://kdgwebdesign.com?ref=yelp&bypass=true"> [ Click Here ] </a> to bypass this block and be taken to our Site Home Page  
-<br />(REFSPAM-YELP-0002). ');
+//$ax += inmatch($fromhost,'yelp','As an entity which has been specifically and expressly prohibited from accessing content on this server, Yelp&#39;s linking to this website as well as their directory listing of this business and it&#39;s protected domains, email addresses and phone numbers are in violation of the Website Terms of Use at https://legal.kdgwebdesign.com/tos.php  If you are a user referred here by Yelp, please <a href="https://kdgwebdesign.com?ref=yelp&bypass=true"> [ Click Here ] </a> to bypass this block and be taken to our Site Home Page  
+//<br />(REFSPAM-YELP-0002). ');
 
 // Madvix.com 
 // Kaos
