@@ -459,7 +459,7 @@ $ax += cidrblock($address,'64.110.128.0/21','Subnet Labs. Cloud server. Not an I
 // Kaos
 // 10/5/2017
 $ax += cidrblock($address,'90.10.0.0/16','France Telecom. Source of vulnerabilty scanners, scrapers, harvesters, and exploit probes. INSTA-BAN (IB-FRANCE-TELECOM-0004). (CMD-10) ');
-$ax += inmatch($hoster,'.fr','France. No access allowed from France (UA-FRANCE-0001).');
+//$ax += inmatch($hoster,'.fr','France. No access allowed from France (UA-FRANCE-0001).');
  
 // Wireless Repair Expo
 // Kaos
