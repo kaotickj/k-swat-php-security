@@ -21,7 +21,9 @@ if (!file_exists('.htaccess')) {
     $file = '.htaccess';
     $content = file_get_contents('htaccess.txt');
         file_put_contents($file, $content, FILE_APPEND | LOCK_EX);
-	unlink('htaccess.txt');	
+	unlink('htaccess.txt');
+	unlink('index.html');
+	rename("index.txt","index.php");
 }?>
 
- <meta http-equiv = "refresh" content = "0; url = /kblocker/control/index.php" />
+ <meta http-equiv = "refresh" content = "0; url = index.php" />

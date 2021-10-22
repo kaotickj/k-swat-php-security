@@ -82,14 +82,6 @@ $ax += lmatch($address,'62.183.127.214','<h2 class="auto-type">Busted!</h2> <p>Y
 //Kaos 
 $ax += lmatch($address,'104.36.17.151','<h2 class="auto-type">CloudSigma</h2> <p>Scripted traffic is prohibited. INSTA-BAN (CMD-10). Uses spoofed host. (CMD-SPOOF-HOST-0014)');
 
-// LibelCunt 
-// Kaos
-$ax += lmatch($address,'74.109.2.187','<h2 class="auto-type">LibelCunt</h2> <p>Access by childish, immature, libelous cunts is prohibited. Why are you here, since you hate us anyway?  Go fuck yourself.  Skank. INSTA-BAN (CMD-10).');
-$ax += lmatch($address,'174.201.6.201','<h2 class="auto-type">LibelCunt</h2> <p>Access by childish, immature, libelous cunts is prohibited. Why are you here, since you hate us anyway?  Go fuck yourself.  Skank. INSTA-BAN (CMD-10).');
-
-//LibelCunt lapdog
-$ax += lmatch($address,'104.36.17.151','<h2 class="auto-type">Punk ass Bitch</h2> <p>Access by bitches is prohibited. Why are you here, since we are so horrible?  Fuck off.  INSTA-BAN (CMD-10).');
-
 // DEMPFS Maroc Telecom
 // Kaos
 // 9/1/2018
